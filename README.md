@@ -1,16 +1,56 @@
-## Hi there 👋
+# Hi, I'm Oluwatosin 👋
 
-<!--
-**tosinmulero/tosinmulero** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Data Analyst | Data Scientist
 
-Here are some ideas to get you started:
+I'm a data professional with an MSc in Data Science, focused on turning complex datasets into clear, actionable business insights.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 📊 Data Analytics Skills
+
+* SQL
+* Microsoft Excel
+* Power BI
+* Tableau
+* Python
+* R
+* Google BigQuery
+* Power Query
+* Data Cleaning
+* Data Visualization
+* Statistical Analysis
+* Machine Learning
+
+### 🛠️ Tools & Technologies
+
+* Python: Pandas, NumPy, Scikit-learn
+* SQL & BigQuery
+* Microsoft Power BI
+* Tableau
+* Microsoft Excel
+* PostgreSQL
+* Salesforce
+* Airtable
+* Git & GitHub
+
+### 📂 Portfolio Projects
+
+I'm currently building my data analytics portfolio.
+
+Projects will include:
+
+* Google Data Analytics Capstone
+* SQL Data Analysis Projects
+* Power BI Business Intelligence Dashboards
+* Python Data Analysis Projects
+* Healthcare Data Analysis
+* Machine Learning Projects
+
+### 🎓 Education & Professional Development
+
+* MSc Data Science
+* Google Data Analytics Professional Certificate — In Progress
+
+### 📫 Connect With Me
+
+I'm interested in Data Analyst, BI Analyst and Data Science opportunities.
+
+More projects coming soon.
