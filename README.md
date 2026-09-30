@@ -86,6 +86,21 @@ I used **Python and Pandas** for data preparation, cleaning, validation, feature
 
 ---
 
+### 📊 Bellabeat Smart Device Usage & Wellness Analysis
+
+End-to-end analysis of Fitbit smart-device data to explore physical activity, sedentary behaviour, sleep patterns, calorie expenditure, and user activity segments.
+
+**Key insights:**
+- Average daily steps: **7,801**
+- Tuesday recorded the highest average activity; Sunday the lowest
+- Average sleep duration: **~419 minutes (~7 hours)**
+- Steps and calories showed a **moderate positive correlation (r ≈ 0.58)**
+- Built an interactive **Power BI dashboard** to communicate findings and recommendations
+
+**Tools:** Python • Pandas • Jupyter Notebook • Power BI • Git • GitHub
+
+🔗 [View Project](https://github.com/tosinmulero/bellabeat-wellness-analysis)
+
 ## 📈 Portfolio Development
 
 Additional projects will include:
