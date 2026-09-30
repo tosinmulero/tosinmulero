@@ -106,6 +106,25 @@ End-to-end analysis of Fitbit smart-device data to explore physical activity, se
   <img src="https://raw.githubusercontent.com/tosinmulero/bellabeat-wellness-analysis/main/images/bellabeat_dashboard.png" alt="Bellabeat Power BI Dashboard" width="800">
 </a>
 
+
+### 🛒 Olist E-Commerce Analytics
+
+End-to-end e-commerce analytics project analysing sales, customers, products, payments and logistics using PostgreSQL, SQL, Power BI, DAX and RFM segmentation.
+
+**Key findings:**
+- R$15.37M total order value across 96,211 delivered orders
+- 64.15% of orders involved cross-state fulfilment
+- Cross-state deliveries averaged 15.12 days vs 7.92 days for same-state orders
+- Late deliveries averaged 2.57/5 review score vs 4.30/5 for on-time orders
+- Only 3% of customers made repeat purchases
+- RFM segmentation identified high-value, inactive and repeat customer groups
+
+[![Olist E-Commerce Performance Dashboard](https://raw.githubusercontent.com/tosinmulero/olist-ecommerce-analysis/main/images/olist_dashboard.png)](https://github.com/tosinmulero/olist-ecommerce-analysis)
+
+**Tools:** PostgreSQL • SQL • Power BI • DAX • Power Query • RFM Analysis
+
+🔗 [View Full Project](https://github.com/tosinmulero/olist-ecommerce-analysis)
+
 ## 📈 Portfolio Development
 
 Additional projects will include:
