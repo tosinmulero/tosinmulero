@@ -100,6 +100,11 @@ End-to-end analysis of Fitbit smart-device data to explore physical activity, se
 **Tools:** Python • Pandas • Jupyter Notebook • Power BI • Git • GitHub
 
 🔗 [View Project](https://github.com/tosinmulero/bellabeat-wellness-analysis)
+<br>
+
+<a href="https://github.com/tosinmulero/bellabeat-wellness-analysis">
+  <img src="https://raw.githubusercontent.com/tosinmulero/bellabeat-wellness-analysis/main/images/bellabeat_dashboard.png" alt="Bellabeat Power BI Dashboard" width="800">
+</a>
 
 ## 📈 Portfolio Development
 
