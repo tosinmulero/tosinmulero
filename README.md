@@ -1,72 +1,81 @@
-<!-- ===================================================== -->
-<!-- OLUWATOSIN MULERO - GITHUB PROFILE -->
-<!-- ===================================================== -->
-
-<div align="center">
+﻿<div align="center">
 
 <img
   src="https://raw.githubusercontent.com/tosinmulero/data-analytics-portfolio/main/images/profile.png"
   alt="Oluwatosin Mulero"
   width="180"
-  style="border-radius:50%;"
 />
 
-# Oluwatosin Mulero
+# Hi, I'm Oluwatosin Mulero 👋
 
-### Data Analyst | Business Intelligence | Data Scientist
+### Data Analyst • Business Intelligence • Data Scientist
 
-📍 United Kingdom
+Turning complex datasets into clear, actionable business insight.
 
-[Portfolio Website](https://tosinmulero.github.io/data-analytics-portfolio/) •
-[LinkedIn](https://www.linkedin.com/in/oluwatosin-mulero-55a578140) •
-[GitHub](https://github.com/tosinmulero) •
-[Email](mailto:tosinmulero@gmail.com)
+<br>
+
+[![Portfolio](https://img.shields.io/badge/Portfolio-2563EB?style=for-the-badge&logo=googlechrome&logoColor=white)](https://tosinmulero.github.io/data-analytics-portfolio/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/oluwatosin-mulero-55a578140)
+[![Email](https://img.shields.io/badge/Email-7C3AED?style=for-the-badge&logo=gmail&logoColor=white)](mailto:tosinmulero@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-0F172A?style=for-the-badge&logo=github&logoColor=white)](https://github.com/tosinmulero)
 
 </div>
 
 ---
 
-## 👋 About Me
+## 👨🏽‍💻 About Me
 
-I am a **data professional with an MSc in Data Science**, with practical experience across **data analytics, business intelligence, CRM data management and data quality**.
+I am a **Data Analyst and Data Science professional with an MSc in Data Science**, experienced in data analytics, business intelligence, data quality and CRM data management.
 
-I work with **SQL, Python, Power BI, Tableau, Excel and PostgreSQL** to clean, analyse and transform complex datasets into clear business insights, interactive dashboards and analytical solutions.
+I use **SQL, Python, Power BI, Tableau, Excel and PostgreSQL** to transform complex datasets into reliable analysis, interactive dashboards and decision-support solutions.
 
-My portfolio demonstrates end-to-end analytical projects across:
+My portfolio includes end-to-end projects across:
 
-- Healthcare performance
-- E-commerce
-- Customer and rider behaviour
-- Mobility analytics
-- Wellness and activity data
-- Data quality and transformation
-- Business intelligence reporting
-
-My focus is on turning raw and complex datasets into **clear, reliable and actionable insights that support better decision-making**.
+- 🏥 Healthcare analytics
+- 🛒 E-commerce analytics
+- 🚲 Mobility and customer behaviour
+- ⌚ Wellness and activity analytics
+- 📊 Business intelligence and KPI reporting
+- 🧹 Data cleaning, validation and transformation
 
 ---
 
 # 🛠️ Technical Skills
 
-## 📊 Data Analysis
+### 📊 Data Analysis
 
-`Microsoft Excel` `Pandas` `Power Query` `Data Cleaning` `Data Validation` `Exploratory Data Analysis`
+![Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![Power Query](https://img.shields.io/badge/Power_Query-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+![EDA](https://img.shields.io/badge/Exploratory_Data_Analysis-06B6D4?style=for-the-badge)
 
-## 📈 Business Intelligence
+### 📈 Business Intelligence
 
-`Power BI` `Tableau` `DAX` `Dashboard Development` `Data Visualisation` `KPI Reporting`
+![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)
+![DAX](https://img.shields.io/badge/DAX-2563EB?style=for-the-badge)
+![KPI](https://img.shields.io/badge/KPI_Reporting-7C3AED?style=for-the-badge)
+![Dashboards](https://img.shields.io/badge/Dashboard_Development-06B6D4?style=for-the-badge)
 
-## 🗄️ Databases & SQL
+### 🗄️ Databases & SQL
 
-`SQL` `PostgreSQL` `Google BigQuery` `Data Transformation`
+![SQL](https://img.shields.io/badge/SQL-2563EB?style=for-the-badge&logo=postgresql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![BigQuery](https://img.shields.io/badge/Google_BigQuery-4285F4?style=for-the-badge&logo=googlebigquery&logoColor=white)
 
-## 💻 Programming & Tools
+### 💻 Programming & Development
 
-`Python` `Git` `GitHub` `VS Code` `Jupyter Notebook`
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
 
-## 🤖 Data Science
+### 🤖 Data Science
 
-`Machine Learning` `Scikit-learn` `Statistical Analysis` `Feature Engineering`
+![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
+![Machine Learning](https://img.shields.io/badge/Machine_Learning-10B981?style=for-the-badge)
+![Statistics](https://img.shields.io/badge/Statistical_Analysis-7C3AED?style=for-the-badge)
 
 ---
 
@@ -82,24 +91,26 @@ My focus is on turning raw and complex datasets into **clear, reliable and actio
 
 End-to-end analysis of approximately **12.07 million NHS A&E attendances** across England from **April to August 2026**.
 
-I used **Python and Pandas** for data preparation and validation, **PostgreSQL and SQL** for analytical querying, and **Power BI with DAX** to build an interactive hospital performance and patient-flow dashboard.
+### 🔎 Key Results
 
-### Key Results
+- Analysed approximately **12.07M A&E attendances**
+- Overall four-hour performance: approximately **75.60%**
+- July recorded approximately **2.49M attendances**
+- Benchmarked **120 Type 1 providers**
+- Compared all seven NHS England regions
+- Analysed 12-hour decision-to-admit waits
+- Largest April-to-August improvement: approximately **+11.39 percentage points**
 
-- Analysed approximately **12.07 million A&E attendances**
-- Overall four-hour performance was approximately **75.60%**
-- July recorded the highest attendance volume at approximately **2.49 million**
-- Compared performance across all seven NHS England regions
-- All seven regions recorded lower four-hour performance in August than in April
-- Benchmarked **120 complete-reporting Type 1 providers**
-- Birmingham Women's and Children's NHS Foundation Trust recorded the largest April-to-August improvement at approximately **+11.39 percentage points**
-- Examined regional and provider-level 12-hour decision-to-admit waits
+### ⚙️ Technology
 
-### Tools
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-2563EB?style=flat-square)
+![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=flat-square&logo=powerbi&logoColor=black)
+![DAX](https://img.shields.io/badge/DAX-7C3AED?style=flat-square)
 
-`Python` `Pandas` `PostgreSQL` `SQL` `Power BI` `DAX` `Jupyter Notebook` `Git` `GitHub`
-
-🔗 [View the NHS Hospital Performance & Patient Flow Analysis Project](https://github.com/tosinmulero/nhs-hospital-performance-analysis)
+### 🔗 [View NHS Project →](https://github.com/tosinmulero/nhs-hospital-performance-analysis)
 
 ---
 
@@ -107,31 +118,31 @@ I used **Python and Pandas** for data preparation and validation, **PostgreSQL a
 
 <img
   src="https://raw.githubusercontent.com/tosinmulero/data-analytics-portfolio/main/images/olist_dashboard.png"
-  alt="Olist E-commerce Analysis Dashboard"
+  alt="Olist E-commerce Dashboard"
   width="850"
 />
 
-End-to-end analysis of Brazilian e-commerce data covering **customer behaviour, revenue, order value, delivery performance, freight costs, reviews and customer segmentation**.
+Analysis of Brazilian e-commerce data covering revenue, customer behaviour, delivery performance, freight costs, reviews and customer segmentation.
 
-The project combines data preparation, exploratory analysis and business intelligence techniques to identify operational and customer experience patterns.
+### 🔎 Key Results
 
-### Key Results
+- **96,211** delivered orders analysed
+- Approximately **R$15.37M** total order value
+- Approximately **R$13.18M** merchandise revenue
+- Average order value approximately **R$159.79**
+- **93,104** unique customers
+- Approximately **97%** one-time buyers
+- On-time review score approximately **4.30**
+- Late-delivery review score approximately **2.57**
 
-- Analysed **96,211 delivered orders**
-- Evaluated approximately **R$15.37 million in total order value**
-- Merchandise revenue was approximately **R$13.18 million**
-- Average order value was approximately **R$159.79**
-- Identified **93,104 unique customers**
-- Approximately **97% of customers were one-time buyers**
-- Cross-state orders represented approximately **64.15%** of delivered orders
-- On-time deliveries received an average review score of approximately **4.30**
-- Late deliveries received a substantially lower average review score of approximately **2.57**
+### ⚙️ Technology
 
-### Tools
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-7C3AED?style=flat-square)
+![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=flat-square&logo=powerbi&logoColor=black)
+![RFM](https://img.shields.io/badge/RFM_Analysis-F43F5E?style=flat-square)
 
-`Python` `SQL` `Power BI` `Pandas` `RFM Analysis` `Data Visualisation`
-
-🔗 [View the Olist E-commerce Analysis Project](https://github.com/tosinmulero/olist-ecommerce-analysis)
+### 🔗 [View Olist Project →](https://github.com/tosinmulero/olist-ecommerce-analysis)
 
 ---
 
@@ -143,112 +154,97 @@ The project combines data preparation, exploratory analysis and business intelli
   width="850"
 />
 
-End-to-end analysis of approximately **5.93 million bike-share trips** covering **July 2025 to June 2026**.
+Analysis of approximately **5.93 million bike-share trips** comparing member and casual rider behaviour.
 
-I used **Python and Pandas** for data preparation, cleaning, validation, feature engineering and exploratory analysis, followed by business intelligence analysis of rider behaviour.
+### 🔎 Key Results
 
-### Key Results
+- Approximately **5.93M trips** analysed
+- Members represented approximately **64.36%**
+- Casual riders represented approximately **35.64%**
+- Member average ride duration: **12.06 minutes**
+- Casual average ride duration: **18.57 minutes**
+- Identified monthly, weekday and hourly usage patterns
 
-- Members accounted for approximately **64.36% of all rides**
-- Casual riders accounted for approximately **35.64%**
-- Casual riders travelled longer on average: **18.57 minutes**
-- Members averaged approximately **12.06 minutes**
-- Member activity showed strong commuting patterns
-- Casual riders demonstrated stronger weekend and leisure-oriented behaviour
-- Ridership showed clear monthly and seasonal variation
-- Analysed rider behaviour by month, weekday and hour
+### ⚙️ Technology
 
-### Tools
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=flat-square&logo=powerbi&logoColor=black)
+![Analytics](https://img.shields.io/badge/Data_Analytics-06B6D4?style=flat-square)
 
-`Python` `Pandas` `Power BI` `Data Analysis` `Jupyter Notebook` `Git` `GitHub`
-
-🔗 [View the Cyclistic Rider Behaviour Analysis Project](https://github.com/tosinmulero/cyclistic-rider-behaviour-analysis)
+### 🔗 [View Cyclistic Project →](https://github.com/tosinmulero/cyclistic-rider-behaviour-analysis)
 
 ---
 
-## 📊 Bellabeat Smart Device Usage & Wellness Analysis
+## 💚 Bellabeat Wellness Analysis
 
 <img
   src="https://raw.githubusercontent.com/tosinmulero/data-analytics-portfolio/main/images/bellabeat_dashboard.png"
-  alt="Bellabeat Wellness Analysis Dashboard"
+  alt="Bellabeat Wellness Dashboard"
   width="850"
 />
 
-Analysis of Fitbit activity and sleep data designed to explore **daily activity, sedentary behaviour, calories, sleep duration and wellness patterns**.
+Fitbit activity and sleep analysis exploring activity levels, calories, sedentary behaviour and wellness patterns.
 
-The project demonstrates data cleaning, exploratory analysis, statistical interpretation and dashboard development.
+### 🔎 Key Results
 
-### Key Results
+- Average daily steps approximately **7,801**
+- Average calories approximately **2,355**
+- Average very-active time approximately **22.3 minutes**
+- Average sleep duration approximately **419 minutes**
+- Average time in bed approximately **458 minutes**
+- Average sleep efficiency approximately **91.65%**
 
-- Average daily activity was approximately **7,801 steps**
-- Average daily calorie expenditure was approximately **2,355 calories**
-- Average very-active time was approximately **22.3 minutes per day**
-- Average sleep duration was approximately **419 minutes**
-- Average time in bed was approximately **458 minutes**
-- Average sleep efficiency was approximately **91.65%**
-- Daily steps showed a moderate positive relationship with calories
-- Greater sedentary time was associated with lower sleep duration in the analysed daily records
+### ⚙️ Technology
 
-### Tools
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=flat-square&logo=powerbi&logoColor=black)
+![Statistics](https://img.shields.io/badge/Statistics-10B981?style=flat-square)
 
-`Python` `Pandas` `Power BI` `Data Cleaning` `Statistical Analysis` `Data Visualisation`
-
-🔗 [View the Bellabeat Wellness Analysis Project](https://github.com/tosinmulero/bellabeat-wellness-analysis)
+### 🔗 [View Bellabeat Project →](https://github.com/tosinmulero/bellabeat-wellness-analysis)
 
 ---
 
-# 🌐 Data Analytics Portfolio
+# 🌐 Portfolio Website
 
-My full interactive portfolio contains my projects, technical skills, project results and professional profile.
+<div align="center">
 
-### 🔗 [Visit My Portfolio Website](https://tosinmulero.github.io/data-analytics-portfolio/)
+### Explore the full interactive version of my portfolio
+
+[![Visit Portfolio](https://img.shields.io/badge/🌐_VIEW_MY_PORTFOLIO-2563EB?style=for-the-badge)](https://tosinmulero.github.io/data-analytics-portfolio/)
+
+</div>
 
 ---
 
 # 🎓 Education
 
 ### MSc Data Science
-
 **University of Greenwich**
 
-Focused on data analytics, machine learning, statistical modelling and data-driven problem solving.
-
----
-
-# 💼 What I Work With
-
-**Data Analysis:** SQL, Python, Excel, Pandas, Power Query
-
-**Business Intelligence:** Power BI, Tableau, DAX, KPI Reporting
-
-**Databases:** PostgreSQL, Google BigQuery
-
-**Data Science:** Machine Learning, Statistical Analysis, Scikit-learn
-
-**Data Quality:** Data Cleaning, Validation, Transformation and CRM Data
-
-**Development:** Git, GitHub, VS Code, Jupyter Notebook
+Data analytics • Machine learning • Statistical modelling • Data-driven problem solving
 
 ---
 
 # 📬 Contact
 
-I am interested in opportunities and collaborations across **Data Analytics, Business Intelligence and Data Science**.
+<div align="center">
 
-📧 **Email:** [tosinmulero@gmail.com](mailto:tosinmulero@gmail.com)
+[![Email](https://img.shields.io/badge/tosinmulero%40gmail.com-7C3AED?style=for-the-badge&logo=gmail&logoColor=white)](mailto:tosinmulero@gmail.com)
 
-📞 **Phone:** [+44 7587 986225](tel:+447587986225)
+[![Phone](https://img.shields.io/badge/%2B44_7587_986225-10B981?style=for-the-badge&logo=phonepe&logoColor=white)](tel:+447587986225)
 
-💼 **LinkedIn:** [Oluwatosin Mulero](https://www.linkedin.com/in/oluwatosin-mulero-55a578140)
+[![LinkedIn](https://img.shields.io/badge/Oluwatosin_Mulero-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/oluwatosin-mulero-55a578140)
 
-🌐 **Portfolio:** [tosinmulero.github.io/data-analytics-portfolio](https://tosinmulero.github.io/data-analytics-portfolio/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-06B6D4?style=for-the-badge&logo=googlechrome&logoColor=white)](https://tosinmulero.github.io/data-analytics-portfolio/)
 
-💻 **GitHub:** [github.com/tosinmulero](https://github.com/tosinmulero)
+</div>
 
 ---
 
 <div align="center">
 
-### Turning complex data into clear, actionable insight.
+### 📊 Turning complex data into clear, actionable insight.
 
 </div>
