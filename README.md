@@ -63,6 +63,32 @@ I work across data cleaning, exploratory analysis, dashboard development, KPI re
 
 ## 📂 Featured Portfolio Project
 
+### 🏥 NHS Hospital Performance & Patient Flow Analysis
+
+End-to-end analysis of approximately **12.07 million NHS A&E attendances** across England from **April to August 2026**.
+
+I used **Python and Pandas** for data preparation and validation, **PostgreSQL and SQL** for analytical querying, and **Power BI with DAX** to build an interactive hospital performance and patient-flow dashboard.
+
+#### Key Findings
+
+- Analysed approximately **12.07 million A&E attendances**
+- Overall four-hour performance was approximately **75.60%**
+- July recorded the highest attendance volume at approximately **2.49 million attendances**
+- Regional performance showed meaningful variation across England
+- All seven NHS regions recorded lower four-hour performance in August than in April
+- Type 1 provider benchmarking identified substantial variation in performance
+- Birmingham Women's and Children's NHS Foundation Trust recorded the largest April-to-August improvement at approximately **+11.39 percentage points**
+- Provider-level four-hour performance showed a weak negative relationship with 12-hour waits
+
+#### Tools
+
+`Python` `Pandas` `PostgreSQL` `SQL` `Power BI` `DAX` `Jupyter Notebook` `Git` `GitHub`
+
+🔗 [View the NHS Hospital Performance & Patient Flow Analysis Project](https://github.com/tosinmulero/nhs-hospital-performance-analysis)
+
+---
+
+
 ### 🚲 Cyclistic Rider Behaviour Analysis
 
 End-to-end analysis of approximately **5.93 million bike-share trips** covering July 2025 to June 2026.
