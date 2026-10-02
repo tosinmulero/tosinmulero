@@ -1,86 +1,101 @@
-# Hi, I'm Oluwatosin 👋
+<!-- ===================================================== -->
+<!-- OLUWATOSIN MULERO - GITHUB PROFILE -->
+<!-- ===================================================== -->
 
-## Data Analyst | Business Intelligence Analyst | Data Scientist
+<div align="center">
 
-I'm a data professional with an MSc in Data Science, focused on transforming complex datasets into clear, actionable insights that support business decision-making.
+<img
+  src="https://raw.githubusercontent.com/tosinmulero/data-analytics-portfolio/main/images/profile.png"
+  alt="Oluwatosin Mulero"
+  width="180"
+  style="border-radius:50%;"
+/>
 
-I work across data cleaning, exploratory analysis, dashboard development, KPI reporting, data visualisation and machine learning using tools including Python, SQL, Power BI, Tableau and Excel.
+# Oluwatosin Mulero
 
----
+### Data Analyst | Business Intelligence | Data Scientist
 
-## 📊 Core Data Skills
+📍 United Kingdom
 
-- SQL
-- Python
-- Power BI
-- Tableau
-- Microsoft Excel
-- Google BigQuery
-- Power Query
-- Data Cleaning & Validation
-- Data Transformation
-- Exploratory Data Analysis
-- KPI Development
-- Dashboard Development
-- Data Visualisation
-- Statistical Analysis
-- Machine Learning
+[Portfolio Website](https://tosinmulero.github.io/data-analytics-portfolio/) •
+[LinkedIn](https://www.linkedin.com/in/oluwatosin-mulero-55a578140) •
+[GitHub](https://github.com/tosinmulero) •
+[Email](mailto:tosinmulero@gmail.com)
+
+</div>
 
 ---
 
-## 🛠️ Tools & Technologies
+## 👋 About Me
 
-**Programming & Analysis**
-- Python
-- Pandas
-- NumPy
-- Scikit-learn
-- R
+I am a **data professional with an MSc in Data Science**, with practical experience across **data analytics, business intelligence, CRM data management and data quality**.
 
-**Databases & SQL**
-- PostgreSQL
-- Google BigQuery
-- Snowflake
+I work with **SQL, Python, Power BI, Tableau, Excel and PostgreSQL** to clean, analyse and transform complex datasets into clear business insights, interactive dashboards and analytical solutions.
 
-**Business Intelligence**
-- Microsoft Power BI
-- DAX
-- Power Query
-- Tableau
-- Microsoft Excel
+My portfolio demonstrates end-to-end analytical projects across:
 
-**CRM & Data Platforms**
-- Salesforce
-- Airtable
+- Healthcare performance
+- E-commerce
+- Customer and rider behaviour
+- Mobility analytics
+- Wellness and activity data
+- Data quality and transformation
+- Business intelligence reporting
 
-**Development & Version Control**
-- Git
-- GitHub
-- Jupyter Notebook
-- Visual Studio Code
+My focus is on turning raw and complex datasets into **clear, reliable and actionable insights that support better decision-making**.
 
 ---
 
-## 📂 Featured Portfolio Project
+# 🛠️ Technical Skills
 
-### 🏥 NHS Hospital Performance & Patient Flow Analysis
+## 📊 Data Analysis
+
+`Microsoft Excel` `Pandas` `Power Query` `Data Cleaning` `Data Validation` `Exploratory Data Analysis`
+
+## 📈 Business Intelligence
+
+`Power BI` `Tableau` `DAX` `Dashboard Development` `Data Visualisation` `KPI Reporting`
+
+## 🗄️ Databases & SQL
+
+`SQL` `PostgreSQL` `Google BigQuery` `Data Transformation`
+
+## 💻 Programming & Tools
+
+`Python` `Git` `GitHub` `VS Code` `Jupyter Notebook`
+
+## 🤖 Data Science
+
+`Machine Learning` `Scikit-learn` `Statistical Analysis` `Feature Engineering`
+
+---
+
+# 📂 Featured Portfolio Projects
+
+## 🏥 NHS Hospital Performance & Patient Flow Analysis
+
+<img
+  src="https://raw.githubusercontent.com/tosinmulero/data-analytics-portfolio/main/images/nhs_dashboard_overview.png"
+  alt="NHS Hospital Performance Dashboard"
+  width="850"
+/>
 
 End-to-end analysis of approximately **12.07 million NHS A&E attendances** across England from **April to August 2026**.
 
 I used **Python and Pandas** for data preparation and validation, **PostgreSQL and SQL** for analytical querying, and **Power BI with DAX** to build an interactive hospital performance and patient-flow dashboard.
 
-#### Key Findings
+### Key Results
 
 - Analysed approximately **12.07 million A&E attendances**
 - Overall four-hour performance was approximately **75.60%**
-- July recorded the highest attendance volume at approximately **2.49 million attendances**
-- Regional performance showed meaningful variation across England
-- All seven NHS regions recorded lower four-hour performance in August than in April
-- Type 1 provider benchmarking identified substantial variation in performance
+- July recorded the highest attendance volume at approximately **2.49 million**
+- Compared performance across all seven NHS England regions
+- All seven regions recorded lower four-hour performance in August than in April
+- Benchmarked **120 complete-reporting Type 1 providers**
 - Birmingham Women's and Children's NHS Foundation Trust recorded the largest April-to-August improvement at approximately **+11.39 percentage points**
-- Provider-level four-hour performance showed a weak negative relationship with 12-hour waits
+- Examined regional and provider-level 12-hour decision-to-admit waits
 
-#### Tools
+### Tools
 
 `Python` `Pandas` `PostgreSQL` `SQL` `Power BI` `DAX` `Jupyter Notebook` `Git` `GitHub`
 
@@ -88,104 +103,150 @@ I used **Python and Pandas** for data preparation and validation, **PostgreSQL a
 
 ---
 
+## 🛒 Olist E-commerce Analysis
 
-### 🚲 Cyclistic Rider Behaviour Analysis
+<img
+  src="https://raw.githubusercontent.com/tosinmulero/data-analytics-portfolio/main/images/olist_dashboard.png"
+  alt="Olist E-commerce Analysis Dashboard"
+  width="850"
+/>
 
-End-to-end analysis of approximately **5.93 million bike-share trips** covering July 2025 to June 2026.
+End-to-end analysis of Brazilian e-commerce data covering **customer behaviour, revenue, order value, delivery performance, freight costs, reviews and customer segmentation**.
 
-I used **Python and Pandas** for data preparation, cleaning, validation, feature engineering and exploratory analysis, followed by **Power BI, Power Query and DAX** to build an interactive business intelligence dashboard.
+The project combines data preparation, exploratory analysis and business intelligence techniques to identify operational and customer experience patterns.
 
-### Key Findings
+### Key Results
 
-- Members accounted for **64.36%** of all rides
-- Casual riders accounted for **35.64%**
-- Casual riders travelled longer on average: **18.57 minutes vs 12.06 minutes**
-- Member activity showed strong commuting peaks around **8 AM and 5 PM**
-- Casual riders demonstrated stronger weekend and leisure-oriented behaviour
-- Ridership showed significant seasonal variation
+- Analysed **96,211 delivered orders**
+- Evaluated approximately **R$15.37 million in total order value**
+- Merchandise revenue was approximately **R$13.18 million**
+- Average order value was approximately **R$159.79**
+- Identified **93,104 unique customers**
+- Approximately **97% of customers were one-time buyers**
+- Cross-state orders represented approximately **64.15%** of delivered orders
+- On-time deliveries received an average review score of approximately **4.30**
+- Late deliveries received a substantially lower average review score of approximately **2.57**
 
 ### Tools
 
-`Python` `Pandas` `Power BI` `Power Query` `DAX` `Jupyter Notebook` `Git` `GitHub`
+`Python` `SQL` `Power BI` `Pandas` `RFM Analysis` `Data Visualisation`
+
+🔗 [View the Olist E-commerce Analysis Project](https://github.com/tosinmulero/olist-ecommerce-analysis)
+
+---
+
+## 🚲 Cyclistic Rider Behaviour Analysis
+
+<img
+  src="https://raw.githubusercontent.com/tosinmulero/data-analytics-portfolio/main/images/cyclistic_monthly_rides.png"
+  alt="Cyclistic Rider Behaviour Analysis"
+  width="850"
+/>
+
+End-to-end analysis of approximately **5.93 million bike-share trips** covering **July 2025 to June 2026**.
+
+I used **Python and Pandas** for data preparation, cleaning, validation, feature engineering and exploratory analysis, followed by business intelligence analysis of rider behaviour.
+
+### Key Results
+
+- Members accounted for approximately **64.36% of all rides**
+- Casual riders accounted for approximately **35.64%**
+- Casual riders travelled longer on average: **18.57 minutes**
+- Members averaged approximately **12.06 minutes**
+- Member activity showed strong commuting patterns
+- Casual riders demonstrated stronger weekend and leisure-oriented behaviour
+- Ridership showed clear monthly and seasonal variation
+- Analysed rider behaviour by month, weekday and hour
+
+### Tools
+
+`Python` `Pandas` `Power BI` `Data Analysis` `Jupyter Notebook` `Git` `GitHub`
 
 🔗 [View the Cyclistic Rider Behaviour Analysis Project](https://github.com/tosinmulero/cyclistic-rider-behaviour-analysis)
 
 ---
 
-### 📊 Bellabeat Smart Device Usage & Wellness Analysis
+## 📊 Bellabeat Smart Device Usage & Wellness Analysis
 
-End-to-end analysis of Fitbit smart-device data to explore physical activity, sedentary behaviour, sleep patterns, calorie expenditure, and user activity segments.
+<img
+  src="https://raw.githubusercontent.com/tosinmulero/data-analytics-portfolio/main/images/bellabeat_dashboard.png"
+  alt="Bellabeat Wellness Analysis Dashboard"
+  width="850"
+/>
 
-**Key insights:**
-- Average daily steps: **7,801**
-- Tuesday recorded the highest average activity; Sunday the lowest
-- Average sleep duration: **~419 minutes (~7 hours)**
-- Steps and calories showed a **moderate positive correlation (r ≈ 0.58)**
-- Built an interactive **Power BI dashboard** to communicate findings and recommendations
+Analysis of Fitbit activity and sleep data designed to explore **daily activity, sedentary behaviour, calories, sleep duration and wellness patterns**.
 
-**Tools:** Python • Pandas • Jupyter Notebook • Power BI • Git • GitHub
+The project demonstrates data cleaning, exploratory analysis, statistical interpretation and dashboard development.
 
-🔗 [View Project](https://github.com/tosinmulero/bellabeat-wellness-analysis)
-<br>
+### Key Results
 
-<a href="https://github.com/tosinmulero/bellabeat-wellness-analysis">
-  <img src="https://raw.githubusercontent.com/tosinmulero/bellabeat-wellness-analysis/main/images/bellabeat_dashboard.png" alt="Bellabeat Power BI Dashboard" width="800">
-</a>
+- Average daily activity was approximately **7,801 steps**
+- Average daily calorie expenditure was approximately **2,355 calories**
+- Average very-active time was approximately **22.3 minutes per day**
+- Average sleep duration was approximately **419 minutes**
+- Average time in bed was approximately **458 minutes**
+- Average sleep efficiency was approximately **91.65%**
+- Daily steps showed a moderate positive relationship with calories
+- Greater sedentary time was associated with lower sleep duration in the analysed daily records
 
+### Tools
 
-### 🛒 Olist E-Commerce Analytics
+`Python` `Pandas` `Power BI` `Data Cleaning` `Statistical Analysis` `Data Visualisation`
 
-End-to-end e-commerce analytics project analysing sales, customers, products, payments and logistics using PostgreSQL, SQL, Power BI, DAX and RFM segmentation.
-
-**Key findings:**
-- R$15.37M total order value across 96,211 delivered orders
-- 64.15% of orders involved cross-state fulfilment
-- Cross-state deliveries averaged 15.12 days vs 7.92 days for same-state orders
-- Late deliveries averaged 2.57/5 review score vs 4.30/5 for on-time orders
-- Only 3% of customers made repeat purchases
-- RFM segmentation identified high-value, inactive and repeat customer groups
-
-[![Olist E-Commerce Performance Dashboard](https://raw.githubusercontent.com/tosinmulero/olist-ecommerce-analysis/main/images/olist_dashboard.png)](https://github.com/tosinmulero/olist-ecommerce-analysis)
-
-**Tools:** PostgreSQL • SQL • Power BI • DAX • Power Query • RFM Analysis
-
-🔗 [View Full Project](https://github.com/tosinmulero/olist-ecommerce-analysis)
-
-## 📈 Portfolio Development
-
-Additional projects will include:
-
-- SQL Data Analysis Projects
-- Power BI Business Intelligence Dashboards
-- Python Data Analysis Projects
-- Healthcare Data Analysis
-- Machine Learning Projects
-- Google Data Analytics Capstone
+🔗 [View the Bellabeat Wellness Analysis Project](https://github.com/tosinmulero/bellabeat-wellness-analysis)
 
 ---
 
-## 🎓 Education & Professional Development
+# 🌐 Data Analytics Portfolio
 
-- **MSc Data Science**
-- **Google Data Analytics Professional Certificate** — In Progress
+My full interactive portfolio contains my projects, technical skills, project results and professional profile.
 
----
-
-## 🎯 Career Interests
-
-I'm interested in opportunities including:
-
-- Data Analyst
-- Business Intelligence Analyst
-- BI Analyst
-- Reporting Analyst
-- Insights Analyst
-- Data Scientist
+### 🔗 [Visit My Portfolio Website](https://tosinmulero.github.io/data-analytics-portfolio/)
 
 ---
 
-## 📫 Connect With Me
+# 🎓 Education
 
-Explore my repositories to see my data analytics, business intelligence and machine learning projects.
+### MSc Data Science
 
-More projects coming soon.
+**University of Greenwich**
+
+Focused on data analytics, machine learning, statistical modelling and data-driven problem solving.
+
+---
+
+# 💼 What I Work With
+
+**Data Analysis:** SQL, Python, Excel, Pandas, Power Query
+
+**Business Intelligence:** Power BI, Tableau, DAX, KPI Reporting
+
+**Databases:** PostgreSQL, Google BigQuery
+
+**Data Science:** Machine Learning, Statistical Analysis, Scikit-learn
+
+**Data Quality:** Data Cleaning, Validation, Transformation and CRM Data
+
+**Development:** Git, GitHub, VS Code, Jupyter Notebook
+
+---
+
+# 📬 Contact
+
+I am interested in opportunities and collaborations across **Data Analytics, Business Intelligence and Data Science**.
+
+📧 **Email:** [tosinmulero@gmail.com](mailto:tosinmulero@gmail.com)
+
+💼 **LinkedIn:** [Oluwatosin Mulero](https://www.linkedin.com/in/oluwatosin-mulero-55a578140)
+
+🌐 **Portfolio:** [tosinmulero.github.io/data-analytics-portfolio](https://tosinmulero.github.io/data-analytics-portfolio/)
+
+💻 **GitHub:** [github.com/tosinmulero](https://github.com/tosinmulero)
+
+---
+
+<div align="center">
+
+### Turning complex data into clear, actionable insight.
+
+</div>
