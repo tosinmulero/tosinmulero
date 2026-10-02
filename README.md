@@ -237,6 +237,8 @@ I am interested in opportunities and collaborations across **Data Analytics, Bus
 
 📧 **Email:** [tosinmulero@gmail.com](mailto:tosinmulero@gmail.com)
 
+📞 **Phone:** [+44 7587 986225](tel:+447587986225)
+
 💼 **LinkedIn:** [Oluwatosin Mulero](https://www.linkedin.com/in/oluwatosin-mulero-55a578140)
 
 🌐 **Portfolio:** [tosinmulero.github.io/data-analytics-portfolio](https://tosinmulero.github.io/data-analytics-portfolio/)
