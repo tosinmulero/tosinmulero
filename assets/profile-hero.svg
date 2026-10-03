@@ -1,0 +1,32 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1400" height="420" viewBox="0 0 1400 420">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#0F172A"/>
+      <stop offset="35%" stop-color="#1D4ED8"/>
+      <stop offset="68%" stop-color="#7C3AED"/>
+      <stop offset="100%" stop-color="#06B6D4"/>
+    </linearGradient>
+    <linearGradient id="accent" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0%" stop-color="#22D3EE"/>
+      <stop offset="50%" stop-color="#F59E0B"/>
+      <stop offset="100%" stop-color="#A78BFA"/>
+    </linearGradient>
+  </defs>
+  <rect width="1400" height="420" rx="30" fill="url(#bg)"/>
+  <circle cx="1240" cy="70" r="200" fill="#FFFFFF" opacity="0.05"/>
+  <circle cx="1350" cy="355" r="260" fill="#FFFFFF" opacity="0.035"/>
+  <circle cx="100" cy="360" r="150" fill="#F59E0B" opacity="0.09"/>
+  <g transform="translate(80,82)">
+    <rect width="118" height="118" rx="24" fill="#FFFFFF" opacity="0.97"/>
+    <rect x="25" y="73" width="15" height="21" rx="4" fill="#2563EB"/>
+    <rect x="51" y="50" width="15" height="44" rx="4" fill="#7C3AED"/>
+    <rect x="77" y="28" width="15" height="66" rx="4" fill="#F59E0B"/>
+    <path d="M24 62 C43 39, 65 46, 92 18" fill="none" stroke="#06B6D4" stroke-width="7" stroke-linecap="round"/>
+  </g>
+  <text x="230" y="118" font-family="Segoe UI,Arial,sans-serif" font-size="52" font-weight="800" fill="#FFFFFF">Oluwatosin Oluwaseun Mulero</text>
+  <text x="232" y="174" font-family="Segoe UI,Arial,sans-serif" font-size="27" font-weight="650" fill="#E0F2FE">Data Analyst • Business Intelligence • Data Scientist</text>
+  <rect x="232" y="208" width="875" height="5" rx="3" fill="url(#accent)"/>
+  <text x="232" y="272" font-family="Segoe UI,Arial,sans-serif" font-size="21" font-weight="700" fill="#FFFFFF">SQL • Python • Power BI • DAX • PostgreSQL • Forecasting • Customer Analytics</text>
+  <text x="232" y="329" font-family="Segoe UI,Arial,sans-serif" font-size="18" fill="#E2E8F0">Turning complex data into reliable analysis, decision-ready dashboards and commercial insight.</text>
+  <text x="232" y="368" font-family="Segoe UI,Arial,sans-serif" font-size="17" fill="#CBD5E1">MSc Data Science • London, United Kingdom</text>
+</svg>
