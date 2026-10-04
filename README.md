@@ -1,173 +1,186 @@
 <p align="center">
-  <img src="assets/profile-hero.svg" alt="Oluwatosin Oluwaseun Mulero — Data Analyst, Business Intelligence, Data Scientist" width="100%">
+  <img src="assets/profile-hero.svg" alt="Oluwatosin Oluwaseun Mulero — Data Analytics, Business Intelligence, Data Science and Explainable AI" width="100%">
 </p>
 
 <p align="center">
-  <a href="https://tosinmulero.github.io/data-analytics-portfolio/"><img src="https://img.shields.io/badge/Portfolio-2563EB?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio"></a>
-  <a href="https://www.linkedin.com/in/oluwatosin-mulero-55a578140"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-  <a href="mailto:tosinmulero@gmail.com"><img src="https://img.shields.io/badge/Email-7C3AED?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
+  <a href="https://tosinmulero.github.io/data-analytics-portfolio/"><img src="https://img.shields.io/badge/PORTFOLIO-06B6D4?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio"></a>
+  <a href="https://github.com/tosinmulero"><img src="https://img.shields.io/badge/GITHUB-111827?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"></a>
+  <a href="https://www.linkedin.com/in/oluwatosin-mulero-55a578140"><img src="https://img.shields.io/badge/LINKEDIN-2563EB?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+  <a href="mailto:tosinmulero@gmail.com"><img src="https://img.shields.io/badge/EMAIL-A855F7?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
 </p>
 
-## 👨🏽‍💻 Profile
+## Profile
 
-I am a **Data Analyst / Data Scientist with an MSc in Data Science**, focused on translating complex datasets into robust analytical models, clear business intelligence and decision-ready reporting.
+I am a **Data Analyst / Business Intelligence / Data Scientist with an MSc in Data Science**, focused on turning complex datasets into reproducible analysis, decision-ready dashboards and technically defensible machine-learning systems.
 
-My portfolio demonstrates end-to-end work across **credit-risk machine learning, explainable AI, customer analytics, healthcare, e-commerce, mobility, wellness, forecasting, experimentation, data quality and CRM analytics**.
+My GitHub profile and portfolio website use the **same project order, same evidence, same metrics and same professional narrative**.
 
-I work primarily with **SQL, Python, Power BI, DAX, Power Query, PostgreSQL, BigQuery, Tableau and Excel**, with an emphasis on reproducibility, data quality, KPI design and business interpretation.
+| Portfolio proof | Evidence |
+|---|---:|
+| End-to-end case studies | **6** |
+| Credit-risk records | **30,000** |
+| Customer 360 customers analysed | **270,154** |
+| Cyclistic rides analysed | **5.93M** |
+| Olist delivered orders | **96,211** |
+| NHS provider codes | **192** |
 
 ---
 
-## 🧰 Technical Stack
+## Capability Matrix
 
 <p>
   <img src="https://img.shields.io/badge/SQL-2563EB?style=flat-square&logo=postgresql&logoColor=white" alt="SQL">
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python">
-  <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white" alt="Pandas">
-  <img src="https://img.shields.io/badge/Power_BI-F2C811?style=flat-square&logo=powerbi&logoColor=black" alt="Power BI">
-  <img src="https://img.shields.io/badge/DAX-7C3AED?style=flat-square" alt="DAX">
-  <img src="https://img.shields.io/badge/Power_Query-10B981?style=flat-square" alt="Power Query">
+  <img src="https://img.shields.io/badge/Power_BI-F2C811?style=flat-square&logo=powerbi&logoColor=111827" alt="Power BI">
   <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" alt="PostgreSQL">
   <img src="https://img.shields.io/badge/BigQuery-4285F4?style=flat-square&logo=googlebigquery&logoColor=white" alt="BigQuery">
-  <img src="https://img.shields.io/badge/Tableau-E97627?style=flat-square&logo=tableau&logoColor=white" alt="Tableau">
-  <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" alt="Git">
+  <img src="https://img.shields.io/badge/XGBoost-FF6600?style=flat-square" alt="XGBoost">
+  <img src="https://img.shields.io/badge/SHAP-A855F7?style=flat-square" alt="SHAP">
+  <img src="https://img.shields.io/badge/MLflow-0194E2?style=flat-square&logo=mlflow&logoColor=white" alt="MLflow">
+  <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" alt="FastAPI">
+  <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white" alt="Streamlit">
+  <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white" alt="GitHub Actions">
 </p>
 
-**Analytics:** data cleaning, validation, EDA, KPI design, segmentation, cohort analysis, RFM, statistical analysis, forecasting, experimentation  
-**BI:** Power BI, DAX, Power Query, Tableau, executive dashboards, KPI reporting  
-**Data & Engineering:** SQL, PostgreSQL, BigQuery, Python, pandas, source-controlled analytical workflows  
-**Data Science:** scikit-learn, SciPy, statsmodels, feature engineering, machine learning
+**Analytics & BI:** SQL, Power BI, DAX, Power Query, Tableau, Excel, KPI design, executive reporting  
+**Data Science & AI:** Python, pandas, scikit-learn, XGBoost, LightGBM, Optuna, SHAP, forecasting  
+**Data & Engineering:** PostgreSQL, BigQuery, ETL/ELT, data quality, Parquet, Git, GitHub, VS Code  
+**MLOps & Delivery:** MLflow, FastAPI, Streamlit, Pytest, Ruff, GitHub Actions, drift monitoring, model governance
 
 ---
 
-# 📂 Featured Portfolio Projects
+# Featured Portfolio Projects
 
-## 💳 Credit Risk Intelligence & Explainable Default Prediction — Data Science Flagship
+## 01 — Credit Risk Intelligence & Explainable Default Prediction
 
-[![View Project](https://img.shields.io/badge/View_Full_Project-8A2BE2?style=for-the-badge&logo=github&logoColor=white)](https://github.com/tosinmulero/credit-risk-explainable-ai)
+[![Data Science Flagship](https://img.shields.io/badge/DATA_SCIENCE_FLAGSHIP-A855F7?style=for-the-badge)](https://github.com/tosinmulero/credit-risk-explainable-ai)
+[![View Repository](https://img.shields.io/badge/VIEW_REPOSITORY-111827?style=for-the-badge&logo=github&logoColor=white)](https://github.com/tosinmulero/credit-risk-explainable-ai)
 
-End-to-end **credit-risk machine-learning system** covering data validation, feature engineering, model benchmarking, Optuna optimisation, probability calibration, cost-sensitive thresholding, SHAP explainability, subgroup auditing, MLflow experiment tracking, FastAPI inference, Streamlit delivery, PSI drift monitoring and GitHub Actions CI.
+Production-style credit-risk workflow covering model benchmarking, Optuna tuning, probability calibration, cost-sensitive thresholding, SHAP explainability, subgroup auditing, MLflow tracking, FastAPI, Streamlit and CI.
 
-**Evidence**
-- **30,000** credit-card client records
-- **XGBoost** selected after Logistic Regression, Random Forest and LightGBM benchmarking
-- final sealed-test **ROC-AUC 0.7834**
-- final sealed-test **PR-AUC 0.5622**
-- **80.71% recall** at a frozen operating threshold of **0.145**
-- illustrative validation cost reduction of **29.1%** under a 5:1 false-negative:false-positive scenario
-- global and local **SHAP** explainability
-- subgroup audit with protected attributes excluded from primary model inputs
-- **MLflow • FastAPI • Streamlit • Pytest • Ruff • GitHub Actions**
+| Key result | Value |
+|---|---:|
+| Sealed-test ROC-AUC | **0.7834** |
+| Sealed-test PR-AUC | **0.5622** |
+| Recall at frozen threshold | **80.71%** |
+| Operating threshold | **0.145** |
+| Illustrative validation cost reduction | **29.1%** |
 
-> Portfolio demonstration only; not intended for real lending or underwriting decisions.
+**Stack:** Python • XGBoost • LightGBM • Optuna • SHAP • MLflow • FastAPI • Streamlit • Pytest • GitHub Actions
 
----
-
-## 🌐 Customer 360 & Revenue Growth Analytics — Flagship Project
-
-[![View Project](https://img.shields.io/badge/View_Full_Project-2563EB?style=for-the-badge&logo=github&logoColor=white)](https://github.com/tosinmulero/customer-360-revenue-growth-analytics)
-
-End-to-end commercial analytics solution combining **SQL, Python, Power BI, DAX, PBIP/PBIR/TMDL, forecasting, customer segmentation and experimentation**.
-
-**Evidence**
-- **270,154** customers analysed
-- **4,419** purchasing customers
-- **775** repeat purchasing customers
-- **362,165** GA4 sample e-commerce revenue
-- **14-day** revenue forecasting with holdout **MAE 1,809.72** and **RMSE 2,278.03**
-- **5-page Power BI** analytical solution
-- reproducible synthetic A/B test: **19.25% relative lift**, **p = 0.0186**
-- synthetic campaign-performance layer clearly disclosed as synthetic
+> Portfolio demonstration using a public historical benchmark dataset; not intended for live lending or underwriting decisions.
 
 ---
 
-## 🏥 NHS Hospital Performance & Patient Flow Analysis
+## 02 — Customer 360 & Revenue Growth Analytics
 
-[![View Project](https://img.shields.io/badge/View_Project-005EB8?style=flat-square&logo=github&logoColor=white)](https://github.com/tosinmulero/nhs-hospital-performance-analysis)
+[![Analytics and BI Flagship](https://img.shields.io/badge/ANALYTICS_%26_BI_FLAGSHIP-2563EB?style=for-the-badge)](https://github.com/tosinmulero/customer-360-revenue-growth-analytics)
+[![View Repository](https://img.shields.io/badge/VIEW_REPOSITORY-111827?style=for-the-badge&logo=github&logoColor=white)](https://github.com/tosinmulero/customer-360-revenue-growth-analytics)
 
-**Python · PostgreSQL · SQL · Power BI · DAX**
+End-to-end commercial analytics combining SQL, Python, Power BI, customer segmentation, forecasting and reproducible experimentation.
 
-- **956** provider-month records across **192** provider codes
-- benchmarked **120 Type 1 providers**
+| Key result | Value |
+|---|---:|
+| Customers analysed | **270,154** |
+| Purchasing customers | **4,419** |
+| Repeat purchasing customers | **775** |
+| GA4 sample e-commerce revenue | **362,165** |
+| Synthetic A/B relative lift | **19.25%** |
+
+**Stack:** SQL • Python • pandas • Power BI • DAX • Power Query • PBIP • PBIR • TMDL • Forecasting
+
+> Synthetic A/B and marketing-spend examples are explicitly labelled as synthetic in the project.
+
+---
+
+## 03 — NHS Hospital Performance & Patient Flow
+
+[![Healthcare Analytics](https://img.shields.io/badge/HEALTHCARE_ANALYTICS-005EB8?style=for-the-badge)](https://github.com/tosinmulero/nhs-hospital-performance-analysis)
+
+Provider benchmarking, four-hour performance, 12-hour waits, regional variation and patient-flow analysis.
+
+- **956** provider-month records
+- **192** provider codes
+- **120** Type 1 providers benchmarked
 - national and regional four-hour performance analysis
-- 12-hour decision-to-admit wait analysis
 - provider improvement and deterioration benchmarking
-- automated **Portfolio Quality** checks
+
+**Stack:** Python • PostgreSQL • SQL • Power BI • DAX • Power Query
 
 ---
 
-## 🛒 Olist E-Commerce Analytics
+## 04 — Olist E-Commerce Analytics
 
-[![View Project](https://img.shields.io/badge/View_Project-7C3AED?style=flat-square&logo=github&logoColor=white)](https://github.com/tosinmulero/olist-ecommerce-analysis)
+[![E-Commerce Analytics](https://img.shields.io/badge/E--COMMERCE_ANALYTICS-7C3AED?style=for-the-badge)](https://github.com/tosinmulero/olist-ecommerce-analysis)
 
-**PostgreSQL · SQL · Power BI · DAX · RFM**
+Commercial, customer, logistics and retention analytics using PostgreSQL, SQL, Power BI and RFM segmentation.
 
 - **96,211** delivered orders
 - **R$15.37M** total order value
 - **93,104** unique customers
 - **3.00%** repeat-customer rate
-- delivery, freight, review-score and RFM analysis
-- automated **Portfolio Quality** checks
+- late-delivery and review-score analysis
+
+**Stack:** PostgreSQL • SQL • Power BI • DAX • Power Query • RFM
 
 ---
 
-## 🚲 Cyclistic Rider Behaviour Analysis
+## 05 — Cyclistic Rider Behaviour Analysis
 
-[![View Project](https://img.shields.io/badge/View_Project-06B6D4?style=flat-square&logo=github&logoColor=white)](https://github.com/tosinmulero/cyclistic-rider-behaviour-analysis)
+[![Mobility Analytics](https://img.shields.io/badge/MOBILITY_ANALYTICS-06B6D4?style=for-the-badge)](https://github.com/tosinmulero/cyclistic-rider-behaviour-analysis)
 
-**Python · pandas · Power BI · DAX · Power Query**
+Large-scale bike-share analysis comparing annual members and casual riders across volume, duration, time and seasonality.
 
-- approximately **5.93M** bike-share trips
-- members: **64.36%** of rides
+- approximately **5.93M** valid rides
+- members: **64.36%**
 - casual riders: **35.64%**
-- member avg. duration: **12.06 min**
-- casual avg. duration: **18.57 min**
-- weekday, hourly, monthly and seasonal behavioural analysis
-- automated **Portfolio Quality** checks
+- member average duration: **12.06 min**
+- casual average duration: **18.57 min**
+
+**Stack:** Python • pandas • Parquet • Power BI • DAX • Power Query
 
 ---
 
-## 💚 Bellabeat Wellness Analysis
+## 06 — Bellabeat Wellness Analysis
 
-[![View Project](https://img.shields.io/badge/View_Project-10B981?style=flat-square&logo=github&logoColor=white)](https://github.com/tosinmulero/bellabeat-wellness-analysis)
+[![Wellness Analytics](https://img.shields.io/badge/WELLNESS_ANALYTICS-10B981?style=for-the-badge)](https://github.com/tosinmulero/bellabeat-wellness-analysis)
 
-**Python · pandas · Power BI · Behavioural Analytics**
+Fitbit activity and sleep analysis exploring behaviour, sedentary time, calories, sleep and user-level patterns.
 
 - average daily steps: **7,801**
 - average sleep: **419 minutes**
 - average sleep efficiency: **91.65%**
 - steps vs calories correlation: **r ≈ 0.58**
-- activity, sedentary behaviour and sleep analysis
-- automated **Portfolio Quality** checks
+
+**Stack:** Python • pandas • Power BI • Behavioural Analytics
 
 ---
 
-## 🌐 Portfolio Website
+## Portfolio Standard
+
+| Standard | What it means |
+|---|---|
+| **Recruiter-first narrative** | Business problem, technical approach, measurable results and clear stack |
+| **Reproducible engineering** | Source-controlled workflows, documented setup and structured outputs |
+| **Technical depth** | Architecture, validation, modelling, SQL/BI assets and evidence |
+| **Responsible interpretation** | Limitations, non-causal interpretation and synthetic-data disclosures |
+
+---
+
+## Education
+
+### MSc Data Science — University of Greenwich
+
+Data analytics • machine learning • statistical modelling • data-driven problem solving
+
+---
+
+## Contact
 
 <p align="center">
-  <a href="https://tosinmulero.github.io/data-analytics-portfolio/">
-    <img src="https://img.shields.io/badge/OPEN_INTERACTIVE_PORTFOLIO-2563EB?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Open portfolio">
-  </a>
+  <a href="mailto:tosinmulero@gmail.com"><img src="https://img.shields.io/badge/EMAIL-A855F7?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
+  <a href="https://www.linkedin.com/in/oluwatosin-mulero-55a578140"><img src="https://img.shields.io/badge/LINKEDIN-2563EB?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+  <a href="https://tosinmulero.github.io/data-analytics-portfolio/"><img src="https://img.shields.io/badge/OPEN_PORTFOLIO-06B6D4?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio"></a>
 </p>
 
-The website brings the projects together into a single recruiter-facing portfolio with dashboard previews, project outcomes and direct GitHub links.
-
----
-
-## 🎓 Education
-
-**MSc Data Science — University of Greenwich**
-
-Focus areas include data analytics, machine learning, statistical modelling and data-driven problem solving.
-
----
-
-## 📬 Contact
-
-<p align="center">
-  <a href="mailto:tosinmulero@gmail.com"><img src="https://img.shields.io/badge/tosinmulero%40gmail.com-7C3AED?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
-  <a href="https://www.linkedin.com/in/oluwatosin-mulero-55a578140"><img src="https://img.shields.io/badge/LinkedIn-Oluwatosin_Mulero-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-  <a href="https://tosinmulero.github.io/data-analytics-portfolio/"><img src="https://img.shields.io/badge/Portfolio-06B6D4?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio"></a>
-</p>
-
-<p align="center"><b>Turning complex data into reliable, actionable insight.</b></p>
+<p align="center"><b>Turning complex data into decision-ready systems.</b></p>

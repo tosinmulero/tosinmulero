@@ -1,32 +1,61 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="1400" height="420" viewBox="0 0 1400 420">
+<svg xmlns="http://www.w3.org/2000/svg" width="1400" height="440" viewBox="0 0 1400 440">
   <defs>
     <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
-      <stop offset="0%" stop-color="#0F172A"/>
-      <stop offset="35%" stop-color="#1D4ED8"/>
-      <stop offset="68%" stop-color="#7C3AED"/>
-      <stop offset="100%" stop-color="#06B6D4"/>
+      <stop offset="0%" stop-color="#060816"/>
+      <stop offset="35%" stop-color="#111B3B"/>
+      <stop offset="70%" stop-color="#312E81"/>
+      <stop offset="100%" stop-color="#4C1D95"/>
     </linearGradient>
     <linearGradient id="accent" x1="0" y1="0" x2="1" y2="0">
       <stop offset="0%" stop-color="#22D3EE"/>
-      <stop offset="50%" stop-color="#F59E0B"/>
-      <stop offset="100%" stop-color="#A78BFA"/>
+      <stop offset="35%" stop-color="#3B82F6"/>
+      <stop offset="70%" stop-color="#A855F7"/>
+      <stop offset="100%" stop-color="#F59E0B"/>
     </linearGradient>
+    <radialGradient id="orb1">
+      <stop offset="0%" stop-color="#22D3EE" stop-opacity="0.30"/>
+      <stop offset="100%" stop-color="#22D3EE" stop-opacity="0"/>
+    </radialGradient>
+    <radialGradient id="orb2">
+      <stop offset="0%" stop-color="#A855F7" stop-opacity="0.30"/>
+      <stop offset="100%" stop-color="#A855F7" stop-opacity="0"/>
+    </radialGradient>
   </defs>
-  <rect width="1400" height="420" rx="30" fill="url(#bg)"/>
-  <circle cx="1240" cy="70" r="200" fill="#FFFFFF" opacity="0.05"/>
-  <circle cx="1350" cy="355" r="260" fill="#FFFFFF" opacity="0.035"/>
-  <circle cx="100" cy="360" r="150" fill="#F59E0B" opacity="0.09"/>
-  <g transform="translate(80,82)">
-    <rect width="118" height="118" rx="24" fill="#FFFFFF" opacity="0.97"/>
-    <rect x="25" y="73" width="15" height="21" rx="4" fill="#2563EB"/>
-    <rect x="51" y="50" width="15" height="44" rx="4" fill="#7C3AED"/>
-    <rect x="77" y="28" width="15" height="66" rx="4" fill="#F59E0B"/>
-    <path d="M24 62 C43 39, 65 46, 92 18" fill="none" stroke="#06B6D4" stroke-width="7" stroke-linecap="round"/>
+
+  <rect width="1400" height="440" rx="30" fill="url(#bg)"/>
+  <circle cx="1190" cy="60" r="280" fill="url(#orb1)"/>
+  <circle cx="1280" cy="420" r="330" fill="url(#orb2)"/>
+  <circle cx="90" cy="390" r="190" fill="#F59E0B" opacity="0.06"/>
+
+  <g opacity="0.13" stroke="#CBD5E1" stroke-width="1">
+    <path d="M0 92H1400"/>
+    <path d="M0 184H1400"/>
+    <path d="M0 276H1400"/>
+    <path d="M0 368H1400"/>
+    <path d="M140 0V440"/>
+    <path d="M280 0V440"/>
+    <path d="M420 0V440"/>
+    <path d="M560 0V440"/>
+    <path d="M700 0V440"/>
+    <path d="M840 0V440"/>
+    <path d="M980 0V440"/>
+    <path d="M1120 0V440"/>
+    <path d="M1260 0V440"/>
   </g>
-  <text x="230" y="118" font-family="Segoe UI,Arial,sans-serif" font-size="52" font-weight="800" fill="#FFFFFF">Oluwatosin Oluwaseun Mulero</text>
-  <text x="232" y="174" font-family="Segoe UI,Arial,sans-serif" font-size="27" font-weight="650" fill="#E0F2FE">Data Analyst • Business Intelligence • Data Scientist</text>
-  <rect x="232" y="208" width="875" height="5" rx="3" fill="url(#accent)"/>
-  <text x="232" y="272" font-family="Segoe UI,Arial,sans-serif" font-size="21" font-weight="700" fill="#FFFFFF">SQL • Python • Power BI • DAX • PostgreSQL • Forecasting • Customer Analytics</text>
-  <text x="232" y="329" font-family="Segoe UI,Arial,sans-serif" font-size="18" fill="#E2E8F0">Turning complex data into reliable analysis, decision-ready dashboards and commercial insight.</text>
-  <text x="232" y="368" font-family="Segoe UI,Arial,sans-serif" font-size="17" fill="#CBD5E1">MSc Data Science • London, United Kingdom</text>
+
+  <g transform="translate(72,76)">
+    <rect width="118" height="118" rx="28" fill="#FFFFFF" opacity="0.98"/>
+    <rect x="24" y="72" width="16" height="23" rx="4" fill="#3B82F6"/>
+    <rect x="51" y="50" width="16" height="45" rx="4" fill="#A855F7"/>
+    <rect x="78" y="27" width="16" height="68" rx="4" fill="#F59E0B"/>
+    <path d="M24 63 C42 42, 65 48, 94 17" fill="none" stroke="#22D3EE" stroke-width="7" stroke-linecap="round"/>
+  </g>
+
+  <text x="224" y="107" font-family="Segoe UI,Arial,sans-serif" font-size="18" font-weight="800" letter-spacing="3" fill="#67E8F9">DATA • BI • AI PORTFOLIO</text>
+  <text x="224" y="166" font-family="Segoe UI,Arial,sans-serif" font-size="51" font-weight="850" fill="#FFFFFF">Oluwatosin Oluwaseun Mulero</text>
+  <text x="224" y="216" font-family="Segoe UI,Arial,sans-serif" font-size="26" font-weight="700" fill="#DDE7FF">Data Analyst • Business Intelligence • Data Scientist</text>
+  <rect x="224" y="244" width="900" height="5" rx="3" fill="url(#accent)"/>
+  <text x="224" y="298" font-family="Segoe UI,Arial,sans-serif" font-size="21" font-weight="700" fill="#FFFFFF">SQL • Python • Power BI • XGBoost • SHAP • PostgreSQL • MLflow • FastAPI</text>
+  <text x="224" y="345" font-family="Segoe UI,Arial,sans-serif" font-size="19" fill="#C7D2FE">Turning complex data into reproducible analysis, decision-ready dashboards and explainable ML systems.</text>
+  <text x="224" y="386" font-family="Segoe UI,Arial,sans-serif" font-size="17" font-weight="700" fill="#A5F3FC">MSc Data Science • 6 end-to-end portfolio case studies • CI-backed repositories</text>
 </svg>
