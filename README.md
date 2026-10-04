@@ -12,7 +12,7 @@
 
 I am a **Data Analyst / Data Scientist with an MSc in Data Science**, focused on translating complex datasets into robust analytical models, clear business intelligence and decision-ready reporting.
 
-My portfolio demonstrates end-to-end work across **customer analytics, healthcare, e-commerce, mobility, wellness, forecasting, experimentation, data quality and CRM analytics**.
+My portfolio demonstrates end-to-end work across **credit-risk machine learning, explainable AI, customer analytics, healthcare, e-commerce, mobility, wellness, forecasting, experimentation, data quality and CRM analytics**.
 
 I work primarily with **SQL, Python, Power BI, DAX, Power Query, PostgreSQL, BigQuery, Tableau and Excel**, with an emphasis on reproducibility, data quality, KPI design and business interpretation.
 
@@ -41,6 +41,27 @@ I work primarily with **SQL, Python, Power BI, DAX, Power Query, PostgreSQL, Big
 ---
 
 # 📂 Featured Portfolio Projects
+
+## 💳 Credit Risk Intelligence & Explainable Default Prediction — Data Science Flagship
+
+[![View Project](https://img.shields.io/badge/View_Full_Project-8A2BE2?style=for-the-badge&logo=github&logoColor=white)](https://github.com/tosinmulero/credit-risk-explainable-ai)
+
+End-to-end **credit-risk machine-learning system** covering data validation, feature engineering, model benchmarking, Optuna optimisation, probability calibration, cost-sensitive thresholding, SHAP explainability, subgroup auditing, MLflow experiment tracking, FastAPI inference, Streamlit delivery, PSI drift monitoring and GitHub Actions CI.
+
+**Evidence**
+- **30,000** credit-card client records
+- **XGBoost** selected after Logistic Regression, Random Forest and LightGBM benchmarking
+- final sealed-test **ROC-AUC 0.7834**
+- final sealed-test **PR-AUC 0.5622**
+- **80.71% recall** at a frozen operating threshold of **0.145**
+- illustrative validation cost reduction of **29.1%** under a 5:1 false-negative:false-positive scenario
+- global and local **SHAP** explainability
+- subgroup audit with protected attributes excluded from primary model inputs
+- **MLflow • FastAPI • Streamlit • Pytest • Ruff • GitHub Actions**
+
+> Portfolio demonstration only; not intended for real lending or underwriting decisions.
+
+---
 
 ## 🌐 Customer 360 & Revenue Growth Analytics — Flagship Project
 
