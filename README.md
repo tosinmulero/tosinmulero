@@ -119,33 +119,112 @@ End-to-end commercial analytics combining SQL, Python, Power BI, segmentation, f
 
 ## 04 — NHS Hospital Performance & Patient Flow
 
+[![Healthcare Analytics](https://img.shields.io/badge/HEALTHCARE_ANALYTICS-005EB8?style=for-the-badge)](https://github.com/tosinmulero/nhs-hospital-performance-analysis)
+[![Power BI](https://img.shields.io/badge/POWER_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=111827)](https://github.com/tosinmulero/nhs-hospital-performance-analysis)
+
+<p align="center">
+  <a href="https://github.com/tosinmulero/nhs-hospital-performance-analysis">
+    <img src="https://raw.githubusercontent.com/tosinmulero/nhs-hospital-performance-analysis/main/images/nhs_dashboard_overview.png"
+         alt="NHS Hospital Performance Dashboard"
+         width="100%">
+  </a>
+</p>
+
 Provider benchmarking, four-hour performance, 12-hour waits, regional variation and patient-flow analytics.
 
+| KPI | Result |
+|---|---:|
+| Provider-month records | **956** |
+| Provider codes | **192** |
+| Type 1 providers benchmarked | **120** |
+
 **Stack:** Python • PostgreSQL • SQL • Power BI • DAX • Power Query
+
+[![Open Repository](https://img.shields.io/badge/OPEN_REPOSITORY-111827?style=for-the-badge&logo=github&logoColor=white)](https://github.com/tosinmulero/nhs-hospital-performance-analysis)
 
 ---
 
 ## 05 — Olist E-Commerce Analytics
 
-Commercial, customer, logistics and retention analytics with PostgreSQL, SQL, Power BI and RFM segmentation.
+[![E-Commerce Analytics](https://img.shields.io/badge/E--COMMERCE_ANALYTICS-7C3AED?style=for-the-badge)](https://github.com/tosinmulero/olist-ecommerce-analysis)
+[![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)](https://github.com/tosinmulero/olist-ecommerce-analysis)
 
-**Stack:** PostgreSQL • SQL • Power BI • DAX • RFM
+<p align="center">
+  <a href="https://github.com/tosinmulero/olist-ecommerce-analysis">
+    <img src="https://raw.githubusercontent.com/tosinmulero/olist-ecommerce-analysis/main/images/olist_dashboard.png"
+         alt="Olist E-Commerce Analytics Dashboard"
+         width="100%">
+  </a>
+</p>
+
+Commercial, customer, logistics and retention analytics using PostgreSQL, SQL, Power BI and RFM segmentation.
+
+| KPI | Result |
+|---|---:|
+| Delivered orders | **96,211** |
+| Total order value | **R$15.37M** |
+| Unique customers | **93,104** |
+| Repeat-customer rate | **3.00%** |
+
+**Stack:** PostgreSQL • SQL • Power BI • DAX • Power Query • RFM
+
+[![Open Repository](https://img.shields.io/badge/OPEN_REPOSITORY-111827?style=for-the-badge&logo=github&logoColor=white)](https://github.com/tosinmulero/olist-ecommerce-analysis)
 
 ---
 
 ## 06 — Cyclistic Rider Behaviour Analysis
 
-Large-scale mobility analysis across **5.93M rides**, membership behaviour, seasonality and ride duration.
+[![Mobility Analytics](https://img.shields.io/badge/MOBILITY_ANALYTICS-06B6D4?style=for-the-badge)](https://github.com/tosinmulero/cyclistic-rider-behaviour-analysis)
+[![Power BI](https://img.shields.io/badge/POWER_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=111827)](https://github.com/tosinmulero/cyclistic-rider-behaviour-analysis)
 
-**Stack:** Python • pandas • Parquet • Power BI • DAX
+<p align="center">
+  <a href="https://github.com/tosinmulero/cyclistic-rider-behaviour-analysis">
+    <img src="https://raw.githubusercontent.com/tosinmulero/cyclistic-rider-behaviour-analysis/main/images/Cyclist_Powerbi_Dashboard.png"
+         alt="Cyclistic Rider Behaviour Dashboard"
+         width="100%">
+  </a>
+</p>
+
+Large-scale mobility analysis comparing member and casual rider behaviour across volume, duration, time and seasonality.
+
+| KPI | Result |
+|---|---:|
+| Valid rides analysed | **5.93M** |
+| Member share | **64.36%** |
+| Casual share | **35.64%** |
+| Casual average duration | **18.57 min** |
+
+**Stack:** Python • pandas • Parquet • Power BI • DAX • Power Query
+
+[![Open Repository](https://img.shields.io/badge/OPEN_REPOSITORY-111827?style=for-the-badge&logo=github&logoColor=white)](https://github.com/tosinmulero/cyclistic-rider-behaviour-analysis)
 
 ---
 
 ## 07 — Bellabeat Wellness Analysis
 
-Activity and sleep analytics covering steps, calories, sedentary behaviour and sleep efficiency.
+[![Wellness Analytics](https://img.shields.io/badge/WELLNESS_ANALYTICS-10B981?style=for-the-badge)](https://github.com/tosinmulero/bellabeat-wellness-analysis)
+[![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://github.com/tosinmulero/bellabeat-wellness-analysis)
+
+<p align="center">
+  <a href="https://github.com/tosinmulero/bellabeat-wellness-analysis">
+    <img src="https://raw.githubusercontent.com/tosinmulero/bellabeat-wellness-analysis/main/images/bellabeat_dashboard.png"
+         alt="Bellabeat Wellness Dashboard"
+         width="100%">
+  </a>
+</p>
+
+Fitbit activity and sleep analysis exploring steps, calories, sedentary behaviour, sleep duration and user-level patterns.
+
+| KPI | Result |
+|---|---:|
+| Average daily steps | **7,801** |
+| Average sleep | **419 min** |
+| Sleep efficiency | **91.65%** |
+| Steps vs calories correlation | **r ≈ 0.58** |
 
 **Stack:** Python • pandas • Power BI • Behavioural Analytics
+
+[![Open Repository](https://img.shields.io/badge/OPEN_REPOSITORY-111827?style=for-the-badge&logo=github&logoColor=white)](https://github.com/tosinmulero/bellabeat-wellness-analysis)
 
 ---
 
