@@ -171,7 +171,7 @@ End-to-end UK rail **data engineering, machine-learning and cloud deployment pla
 
 <p align="center">
   <a href="https://github.com/tosinmulero/railflow-ml-data-platform">
-    <img src="https://raw.githubusercontent.com/tosinmulero/railflow-ml-data-platform/main/docs/screenshots/01_platform_architecture.svg" alt="RailFlow Platform Architecture" width="100%">
+    <img src="assets/railflow-platform-architecture.svg" alt="RailFlow Platform Architecture" width="100%">
   </a>
 </p>
 
