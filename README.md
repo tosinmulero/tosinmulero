@@ -4,8 +4,9 @@
 
 <p align="center">
   <a href="https://tosinmulero.github.io/data-analytics-portfolio/"><img src="https://img.shields.io/badge/PORTFOLIO-06B6D4?style=for-the-badge&logo=googlechrome&logoColor=white"></a>
-  <a href="https://github.com/tosinmulero/railpartner-360"><img src="https://img.shields.io/badge/PRIMARY_FLAGSHIP-RAILPARTNER_360-2563EB?style=for-the-badge"></a>
-  <a href="https://github.com/tosinmulero/railflow-ml-data-platform"><img src="https://img.shields.io/badge/DATA_%26_ML_CLOUD-RAILFLOW-7C3AED?style=for-the-badge&logo=amazonaws&logoColor=white"></a>
+  <a href="https://github.com/tosinmulero/railpartner-360"><img src="https://img.shields.io/badge/RAILPARTNER_360-2563EB?style=for-the-badge"></a>
+  <br>
+  <a href="https://github.com/tosinmulero/railflow-ml-data-platform"><img src="https://img.shields.io/badge/RAILFLOW_ML_PLATFORM-7C3AED?style=for-the-badge&logo=amazonaws&logoColor=white"></a>
   <a href="https://www.linkedin.com/in/oluwatosin-mulero-55a578140"><img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"></a>
 </p>
 
@@ -51,10 +52,10 @@ The **GitHub profile and portfolio website use the same project hierarchy, metri
   <img src="https://img.shields.io/badge/AWS_ECS%2FFargate-FF9900?style=flat-square&logo=amazonaws&logoColor=white">
 </p>
 
-**Analytics Engineering:** PostgreSQL • SQL • dbt • dimensional modelling • marts • validation • automation
-**Business Intelligence:** Power BI • DAX • Power Query • PBIP • PBIR • TMDL • executive reporting
-**Data Science:** Python • pandas • scikit-learn • XGBoost • LightGBM • Optuna • SHAP
-**Data Engineering & MLOps:** PySpark • Airflow • Docker • Terraform • AWS ECS/Fargate • GitHub OIDC
+**Analytics Engineering:** PostgreSQL • SQL • dbt • dimensional modelling • marts • validation • automation<br>
+**Business Intelligence:** Power BI • DAX • Power Query • PBIP • PBIR • TMDL • executive reporting<br>
+**Data Science:** Python • pandas • scikit-learn • XGBoost • LightGBM • Optuna • SHAP<br>
+**Data Engineering & MLOps:** PySpark • Airflow • Docker • Terraform • AWS ECS/Fargate • GitHub OIDC<br>
 **Delivery:** Git • GitHub • GitHub Actions • Pytest • MLflow • FastAPI • Streamlit
 
 ---
@@ -63,10 +64,11 @@ The **GitHub profile and portfolio website use the same project hierarchy, metri
 
 ## 01 — RailPartner 360 — B2B Rail Retail & Customer Intelligence
 
-[![Primary Flagship](https://img.shields.io/badge/PRIMARY_FLAGSHIP-06B6D4?style=for-the-badge)](https://github.com/tosinmulero/railpartner-360)
-[![Analytics Engineering](https://img.shields.io/badge/ANALYTICS_ENGINEERING-2563EB?style=for-the-badge)](https://github.com/tosinmulero/railpartner-360)
-[![dbt](https://img.shields.io/badge/dbt-FF694B?style=for-the-badge&logo=dbt&logoColor=white)](https://github.com/tosinmulero/railpartner-360)
-[![Power BI](https://img.shields.io/badge/POWER_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=111827)](https://github.com/tosinmulero/railpartner-360)
+[![Primary Flagship](https://img.shields.io/badge/PRIMARY_FLAGSHIP-06B6D4?style=flat-square)](https://github.com/tosinmulero/railpartner-360)
+[![Analytics Engineering](https://img.shields.io/badge/ANALYTICS_ENGINEERING-2563EB?style=flat-square)](https://github.com/tosinmulero/railpartner-360)
+<br>
+[![dbt](https://img.shields.io/badge/dbt-FF694B?style=flat-square&logo=dbt&logoColor=white)](https://github.com/tosinmulero/railpartner-360)
+[![Power BI](https://img.shields.io/badge/POWER_BI-F2C811?style=flat-square&logo=powerbi&logoColor=111827)](https://github.com/tosinmulero/railpartner-360)
 
 <p align="center">
   <a href="https://github.com/tosinmulero/railpartner-360">
@@ -99,11 +101,12 @@ End-to-end analytics engineering and BI platform connecting **customer conversio
 
 ## 02 — RailFlow ML Data Platform
 
-[![Data & ML Engineering Flagship](https://img.shields.io/badge/DATA_%26_ML_ENGINEERING_FLAGSHIP-7C3AED?style=for-the-badge)](https://github.com/tosinmulero/railflow-ml-data-platform)
-[![PySpark](https://img.shields.io/badge/PySpark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white)](https://github.com/tosinmulero/railflow-ml-data-platform)
-[![Airflow](https://img.shields.io/badge/Airflow-017CEE?style=for-the-badge&logo=apacheairflow&logoColor=white)](https://github.com/tosinmulero/railflow-ml-data-platform)
-[![Terraform](https://img.shields.io/badge/Terraform-844FBA?style=for-the-badge&logo=terraform&logoColor=white)](https://github.com/tosinmulero/railflow-ml-data-platform)
-[![AWS Deployment Verified](https://img.shields.io/badge/AWS_ECS%2FFARGATE-DEPLOYMENT_VERIFIED-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)](https://github.com/tosinmulero/railflow-ml-data-platform/blob/main/docs/deployment-evidence.md)
+[![Data & ML Engineering](https://img.shields.io/badge/DATA_%26_ML_ENGINEERING-7C3AED?style=flat-square)](https://github.com/tosinmulero/railflow-ml-data-platform)
+[![PySpark](https://img.shields.io/badge/PySpark-E25A1C?style=flat-square&logo=apachespark&logoColor=white)](https://github.com/tosinmulero/railflow-ml-data-platform)
+[![Airflow](https://img.shields.io/badge/Airflow-017CEE?style=flat-square&logo=apacheairflow&logoColor=white)](https://github.com/tosinmulero/railflow-ml-data-platform)
+<br>
+[![Terraform](https://img.shields.io/badge/Terraform-844FBA?style=flat-square&logo=terraform&logoColor=white)](https://github.com/tosinmulero/railflow-ml-data-platform)
+[![AWS Verified](https://img.shields.io/badge/AWS_ECS%2FFARGATE-VERIFIED-FF9900?style=flat-square&logo=amazonaws&logoColor=white)](https://github.com/tosinmulero/railflow-ml-data-platform/blob/main/docs/deployment-evidence.md)
 
 End-to-end UK rail **data engineering, machine-learning and cloud deployment platform** spanning medallion architecture, analytics engineering, orchestration, model governance, API serving, CI/CD and Infrastructure as Code.
 
