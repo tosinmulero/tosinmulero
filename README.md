@@ -152,7 +152,8 @@ End-to-end analytics engineering and BI platform connecting **customer conversio
 > Synthetic transaction-level rail data is used for portfolio demonstration. No proprietary Trainline or customer data is included.
 
 [![Open Repository](https://img.shields.io/badge/OPEN_REPOSITORY-111827?style=for-the-badge&logo=github&logoColor=white)](https://github.com/tosinmulero/railpartner-360)
-[![Open Portfolio](https://img.shields.io/badge/VIEW_ON_PORTFOLIO-06B6D4?style=for-the-badge&logo=googlechrome&logoColor=white)](https://tosinmulero.github.io/data-analytics-portfolio/#projects)
+[![Case Study](https://img.shields.io/badge/CASE_STUDY-0F766E?style=for-the-badge)](https://github.com/tosinmulero/railpartner-360#readme)
+[![Dashboard Spec](https://img.shields.io/badge/DASHBOARD_SPEC-06B6D4?style=for-the-badge)](https://github.com/tosinmulero/railpartner-360/blob/main/powerbi/docs/dashboard_specification.md)
 [![Visual Gallery](https://img.shields.io/badge/VISUAL_GALLERY-EC4899?style=for-the-badge)](https://github.com/tosinmulero/railpartner-360/tree/main/docs/screenshots)
 
 ---
