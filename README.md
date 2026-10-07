@@ -115,6 +115,7 @@ End-to-end synthetic **B2B rail product-intelligence platform** combining partne
 [![Open Repository](https://img.shields.io/badge/OPEN_REPOSITORY-111827?style=for-the-badge&logo=github&logoColor=white)](https://github.com/tosinmulero/railnexus-b2b-product-growth-intelligence)
 [![Case Study](https://img.shields.io/badge/CASE_STUDY-0F766E?style=for-the-badge)](https://github.com/tosinmulero/railnexus-b2b-product-growth-intelligence/blob/main/docs/CASE_STUDY.md)
 [![Architecture](https://img.shields.io/badge/ARCHITECTURE-06B6D4?style=for-the-badge)](https://github.com/tosinmulero/railnexus-b2b-product-growth-intelligence/blob/main/docs/ARCHITECTURE.md)
+[![Visual Gallery](https://img.shields.io/badge/VISUAL_GALLERY-EC4899?style=for-the-badge)](https://github.com/tosinmulero/railnexus-b2b-product-growth-intelligence/tree/main/docs/screenshots)
 
 ---
 
@@ -126,13 +127,13 @@ End-to-end synthetic **B2B rail product-intelligence platform** combining partne
 [![dbt](https://img.shields.io/badge/dbt-FF694B?style=flat-square&logo=dbt&logoColor=white)](https://github.com/tosinmulero/railpartner-360)
 [![Power BI](https://img.shields.io/badge/POWER_BI-F2C811?style=flat-square&logo=powerbi&logoColor=111827)](https://github.com/tosinmulero/railpartner-360)
 
+End-to-end analytics engineering and BI platform connecting **customer conversion, B2B partner performance, route economics, operational reliability and refund exposure**.
+
 <p align="center">
   <a href="https://github.com/tosinmulero/railpartner-360">
     <img src="https://raw.githubusercontent.com/tosinmulero/railpartner-360/main/docs/screenshots/01_executive_overview.png" alt="RailPartner 360 Executive Overview" width="100%">
   </a>
 </p>
-
-End-to-end analytics engineering and BI platform connecting **customer conversion, B2B partner performance, route economics, operational reliability and refund exposure**.
 
 | KPI | Result |
 |---|---:|
@@ -152,6 +153,7 @@ End-to-end analytics engineering and BI platform connecting **customer conversio
 
 [![Open Repository](https://img.shields.io/badge/OPEN_REPOSITORY-111827?style=for-the-badge&logo=github&logoColor=white)](https://github.com/tosinmulero/railpartner-360)
 [![Open Portfolio](https://img.shields.io/badge/VIEW_ON_PORTFOLIO-06B6D4?style=for-the-badge&logo=googlechrome&logoColor=white)](https://tosinmulero.github.io/data-analytics-portfolio/#projects)
+[![Visual Gallery](https://img.shields.io/badge/VISUAL_GALLERY-EC4899?style=for-the-badge)](https://github.com/tosinmulero/railpartner-360/tree/main/docs/screenshots)
 
 ---
 
@@ -192,6 +194,7 @@ End-to-end UK rail **data engineering, machine-learning and cloud deployment pla
 [![Open Repository](https://img.shields.io/badge/OPEN_REPOSITORY-111827?style=for-the-badge&logo=github&logoColor=white)](https://github.com/tosinmulero/railflow-ml-data-platform)
 [![Deployment Evidence](https://img.shields.io/badge/DEPLOYMENT_EVIDENCE-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)](https://github.com/tosinmulero/railflow-ml-data-platform/blob/main/docs/deployment-evidence.md)
 [![Architecture](https://img.shields.io/badge/ARCHITECTURE-06B6D4?style=for-the-badge)](https://github.com/tosinmulero/railflow-ml-data-platform/blob/main/docs/architecture/railflow-platform.md)
+[![Visual Gallery](https://img.shields.io/badge/VISUAL_GALLERY-EC4899?style=for-the-badge)](https://github.com/tosinmulero/railflow-ml-data-platform/tree/main/docs/screenshots)
 
 ---
 
@@ -231,6 +234,7 @@ Production-style digital rail **product-intelligence platform** covering search-
 [![Open Repository](https://img.shields.io/badge/OPEN_REPOSITORY-111827?style=for-the-badge&logo=github&logoColor=white)](https://github.com/tosinmulero/railsearch-customer-journey-intelligence)
 [![Executive Findings](https://img.shields.io/badge/EXECUTIVE_FINDINGS-059669?style=for-the-badge)](https://github.com/tosinmulero/railsearch-customer-journey-intelligence/blob/main/reports/STAGE3_EXECUTIVE_FINDINGS.md)
 [![Architecture](https://img.shields.io/badge/ARCHITECTURE-06B6D4?style=for-the-badge)](https://github.com/tosinmulero/railsearch-customer-journey-intelligence/blob/main/docs/ARCHITECTURE.md)
+[![Visual Gallery](https://img.shields.io/badge/VISUAL_GALLERY-EC4899?style=for-the-badge)](https://github.com/tosinmulero/railsearch-customer-journey-intelligence/tree/main/reports/figures)
 
 ---
 
