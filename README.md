@@ -12,11 +12,12 @@
   <a href="https://www.linkedin.com/in/oluwatosin-mulero-55a578140"><img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"></a>
 </p>
 
-# Product Analytics • Analytics Engineering • Data Engineering • Business Intelligence • Data Science • MLOps
+# Product Data Science • Experimentation • Analytics Engineering • Business Intelligence • MLOps
 
-I am an **MSc Data Science professional building end-to-end data products that connect business questions to production-grade evidence** — from SQL and analytical warehouses to Power BI, experimentation, machine learning, APIs, orchestration, CI/CD and cloud deployment.
+I am an **MSc Data Science professional building end-to-end analytical products that connect commercial questions to reproducible evidence** — from SQL and analytical warehouses to experimentation, machine learning, graph analytics, responsible AI, APIs, CI/CD and cloud delivery.
 
-The **GitHub profile and portfolio website use the same project hierarchy, metrics and evidence**.
+The **GitHub profile and portfolio website use the same project hierarchy, metrics, evidence and featured-project ordering**.  
+🌐 **Portfolio:** https://tosinmulero.github.io/data-analytics-portfolio/
 
 | Portfolio proof | Evidence |
 |---|---:|
@@ -56,17 +57,20 @@ The **GitHub profile and portfolio website use the same project hierarchy, metri
   <img src="https://img.shields.io/badge/MLflow-0194E2?style=flat-square&logo=mlflow&logoColor=white">
   <img src="https://img.shields.io/badge/PySpark-E25A1C?style=flat-square&logo=apachespark&logoColor=white">
   <img src="https://img.shields.io/badge/Airflow-017CEE?style=flat-square&logo=apacheairflow&logoColor=white">
+  <img src="https://img.shields.io/badge/NetworkX-14B8A6?style=flat-square">
+  <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white">
+  <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white">
   <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white">
   <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white">
   <img src="https://img.shields.io/badge/Terraform-844FBA?style=flat-square&logo=terraform&logoColor=white">
   <img src="https://img.shields.io/badge/AWS_ECS%2FFargate-FF9900?style=flat-square&logo=amazonaws&logoColor=white">
 </p>
 
-**Product Analytics:** funnels • conversion • experimentation • anomaly detection • statistical testing • commercial impact • customer journey<br>
+**Product Data Science:** funnels • conversion • activation • retention • experimentation • anomaly detection • statistical testing • commercial impact • customer journey<br>
 **Analytics & BI:** SQL • Power BI • DAX • Power Query • Tableau • Excel • KPI design • executive reporting<br>
-**Data Science & AI:** Python • pandas • scikit-learn • XGBoost • LightGBM • Optuna • SHAP • forecasting<br>
+**Data Science & AI:** Python • pandas • scikit-learn • statsmodels • XGBoost • LightGBM • Optuna • SHAP • NetworkX • clustering • responsible AI<br>
 **Data Engineering:** PostgreSQL • DuckDB • dbt • BigQuery • PySpark • Apache Airflow • ETL/ELT • Parquet • data quality<br>
-**MLOps & Cloud Delivery:** MLflow • FastAPI • Docker • Terraform • AWS ECS/Fargate • GitHub Actions • Pytest • Ruff
+**MLOps & Product Delivery:** Streamlit • MLflow • FastAPI • Pydantic • Docker • Terraform • AWS ECS/Fargate • GitHub Actions • Pytest • Ruff
 
 ---
 
@@ -74,11 +78,12 @@ The **GitHub profile and portfolio website use the same project hierarchy, metri
 
 ## 01 — RailNexus — B2B Product Growth, Experimentation & Network Intelligence
 
+[![Featured Portfolio Project](https://img.shields.io/badge/FEATURED_PORTFOLIO_PROJECT-EC4899?style=for-the-badge)]
 [![B2B Product Data Science Flagship](https://img.shields.io/badge/B2B_PRODUCT_DATA_SCIENCE_FLAGSHIP-0F766E?style=for-the-badge)](https://github.com/tosinmulero/railnexus-b2b-product-growth-intelligence)
 [![Experimentation](https://img.shields.io/badge/EXPERIMENTATION-2563EB?style=flat-square)](https://github.com/tosinmulero/railnexus-b2b-product-growth-intelligence/blob/main/docs/EXPERIMENT_CARD.md)
 [![Responsible AI](https://img.shields.io/badge/RESPONSIBLE_AI-7C3AED?style=flat-square)](https://github.com/tosinmulero/railnexus-b2b-product-growth-intelligence/blob/main/docs/AI_ASSISTED_INVESTIGATION.md)
 
-End-to-end synthetic **B2B rail product-intelligence platform** combining partner growth analytics, rigorous experimentation, graph/geospatial opportunity analysis, predictive modelling, partner segmentation, responsible-AI investigation, Streamlit, FastAPI, Docker and CI/CD.
+End-to-end synthetic **B2B rail product-intelligence platform** combining partner growth analytics, rigorous experimentation, graph/geospatial opportunity analysis, predictive modelling, partner segmentation, responsible-AI investigation and production engineering.
 
 | KPI | Result |
 |---|---:|
