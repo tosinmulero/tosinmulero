@@ -245,6 +245,12 @@ Production-style digital rail **product-intelligence platform** covering search-
 
 Production-style credit-risk workflow covering model benchmarking, Optuna tuning, probability calibration, cost-sensitive thresholding, SHAP explainability, subgroup auditing, MLflow tracking, FastAPI, Streamlit and CI.
 
+<p align="center">
+  <a href="https://github.com/tosinmulero/credit-risk-explainable-ai">
+    <img src="https://raw.githubusercontent.com/tosinmulero/credit-risk-explainable-ai/main/reports/figures/21_shap_global_importance.png" alt="Credit Risk SHAP Global Feature Importance" width="100%">
+  </a>
+</p>
+
 - **0.7834** ROC-AUC
 - **0.5622** PR-AUC
 - **80.71%** recall
@@ -255,6 +261,7 @@ Production-style credit-risk workflow covering model benchmarking, Optuna tuning
 [![Open Repository](https://img.shields.io/badge/OPEN_REPOSITORY-111827?style=for-the-badge&logo=github&logoColor=white)](https://github.com/tosinmulero/credit-risk-explainable-ai)
 [![Model Card](https://img.shields.io/badge/MODEL_CARD-A855F7?style=for-the-badge)](https://github.com/tosinmulero/credit-risk-explainable-ai/blob/main/docs/MODEL_CARD.md)
 [![Architecture](https://img.shields.io/badge/ARCHITECTURE-06B6D4?style=for-the-badge)](https://github.com/tosinmulero/credit-risk-explainable-ai/blob/main/docs/ARCHITECTURE.md)
+[![Visual Gallery](https://img.shields.io/badge/VISUAL_GALLERY-EC4899?style=for-the-badge)](https://github.com/tosinmulero/credit-risk-explainable-ai/tree/main/reports/figures)
 
 ---
 
@@ -263,6 +270,12 @@ Production-style credit-risk workflow covering model benchmarking, Optuna tuning
 [![Analytics & BI Flagship](https://img.shields.io/badge/ANALYTICS_%26_BI_FLAGSHIP-2563EB?style=for-the-badge)](https://github.com/tosinmulero/customer-360-revenue-growth-analytics)
 
 End-to-end commercial analytics combining SQL, Python, Power BI, segmentation, forecasting and reproducible experimentation.
+
+<p align="center">
+  <a href="https://github.com/tosinmulero/customer-360-revenue-growth-analytics">
+    <img src="https://raw.githubusercontent.com/tosinmulero/customer-360-revenue-growth-analytics/main/images/powerbi/01_executive_overview.png" alt="Customer 360 Executive Overview Power BI Dashboard" width="100%">
+  </a>
+</p>
 
 - **270,154** customers
 - **4,419** purchasing customers
@@ -273,6 +286,7 @@ End-to-end commercial analytics combining SQL, Python, Power BI, segmentation, f
 
 [![Open Repository](https://img.shields.io/badge/OPEN_REPOSITORY-111827?style=for-the-badge&logo=github&logoColor=white)](https://github.com/tosinmulero/customer-360-revenue-growth-analytics)
 [![Recruiter Summary](https://img.shields.io/badge/RECRUITER_SUMMARY-2563EB?style=for-the-badge)](https://github.com/tosinmulero/customer-360-revenue-growth-analytics/blob/main/docs/RECRUITER_PROJECT_SUMMARY.md)
+[![Visual Gallery](https://img.shields.io/badge/VISUAL_GALLERY-EC4899?style=for-the-badge)](https://github.com/tosinmulero/customer-360-revenue-growth-analytics/tree/main/images/powerbi)
 
 ---
 
