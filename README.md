@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/profile-hero.svg" alt="Oluwatosin Oluwaseun Mulero — Product Analytics, Analytics Engineering, Business Intelligence, Data Science and MLOps" width="100%">
+  <img src="assets/profile-hero.svg" alt="Oluwatosin Oluwaseun Mulero — Product Data Science, Experimentation, Analytics Engineering, Business Intelligence and MLOps" width="100%">
 </p>
 
 <p align="center">
