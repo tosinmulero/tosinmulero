@@ -7,10 +7,11 @@
   <a href="https://github.com/tosinmulero/railpartner-360"><img src="https://img.shields.io/badge/RAILPARTNER_360-2563EB?style=for-the-badge"></a>
   <br>
   <a href="https://github.com/tosinmulero/railflow-ml-data-platform"><img src="https://img.shields.io/badge/RAILFLOW_ML_PLATFORM-7C3AED?style=for-the-badge&logo=amazonaws&logoColor=white"></a>
+  <a href="https://github.com/tosinmulero/railsearch-customer-journey-intelligence"><img src="https://img.shields.io/badge/RAILSEARCH-059669?style=for-the-badge&logo=python&logoColor=white"></a>
   <a href="https://www.linkedin.com/in/oluwatosin-mulero-55a578140"><img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"></a>
 </p>
 
-# Analytics Engineering • Data Engineering • Business Intelligence • Data Science • MLOps
+# Product Analytics • Analytics Engineering • Data Engineering • Business Intelligence • Data Science • MLOps
 
 I build **decision-ready analytical and machine-learning systems**, not isolated charts. My portfolio combines SQL, PostgreSQL, dbt, Python, PySpark, Airflow, Power BI, machine learning, MLOps, Docker, Terraform and AWS cloud deployment.
 
@@ -18,13 +19,16 @@ The **GitHub profile and portfolio website use the same project hierarchy, metri
 
 | Portfolio proof | Evidence |
 |---|---:|
-| End-to-end case studies | **8** |
+| End-to-end case studies | **9** |
 | Rail searches analysed | **6.00M** |
 | Rail bookings analysed | **2.00M** |
 | Rail platform revenue | **£9.03M** |
 | RailFlow validated station records | **2,593** |
 | RailFlow Terraform-managed AWS resources | **25** |
 | RailFlow automated pytest passes | **38** |
+| RailSearch customer searches | **260,724** |
+| RailSearch bookings | **77,759** |
+| RailSearch top-decile lift | **1.386×** |
 | Customer 360 customers analysed | **270,154** |
 | Cyclistic rides analysed | **5.93M** |
 | Olist delivered orders | **96,211** |
@@ -52,6 +56,7 @@ The **GitHub profile and portfolio website use the same project hierarchy, metri
   <img src="https://img.shields.io/badge/AWS_ECS%2FFargate-FF9900?style=flat-square&logo=amazonaws&logoColor=white">
 </p>
 
+**Product Analytics:** funnel analysis • conversion • anomaly detection • statistical investigation • commercial impact<br>
 **Analytics Engineering:** PostgreSQL • SQL • dbt • dimensional modelling • marts • validation • automation<br>
 **Business Intelligence:** Power BI • DAX • Power Query • PBIP • PBIR • TMDL • executive reporting<br>
 **Data Science:** Python • pandas • scikit-learn • XGBoost • LightGBM • Optuna • SHAP<br>
@@ -133,7 +138,40 @@ End-to-end UK rail **data engineering, machine-learning and cloud deployment pla
 
 ---
 
-## 03 — Credit Risk Intelligence & Explainable Default Prediction
+## 03 — RailSearch — Customer Journey & Conversion Intelligence
+
+[![Product Data Science Flagship](https://img.shields.io/badge/PRODUCT_DATA_SCIENCE_FLAGSHIP-059669?style=for-the-badge)](https://github.com/tosinmulero/railsearch-customer-journey-intelligence)
+[![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)](https://github.com/tosinmulero/railsearch-customer-journey-intelligence)
+[![DuckDB](https://img.shields.io/badge/DuckDB-FFF000?style=flat-square&logo=duckdb&logoColor=111827)](https://github.com/tosinmulero/railsearch-customer-journey-intelligence)
+
+End-to-end **product analytics, statistical investigation, machine learning and MLOps** project modelling the digital rail-booking journey from search through booking.
+
+| KPI | Result |
+|---|---:|
+| Sessions | **150,000** |
+| Searches | **260,724** |
+| Bookings | **77,759** |
+| Search-to-book conversion | **29.82%** |
+| Zero-result rate | **5.75%** |
+| Top-decile booking rate | **41.43%** |
+| Top-decile lift | **1.386×** |
+| Validated anomaly-alert days | **9** |
+
+**Product investigation:** zero-result and checkout-friction analysis, statistical incident testing, counterfactual commercial-impact estimation and anomaly detection.
+
+**ML:** leakage-safe temporal validation using January–April training, May validation and a locked June test set, followed by explainability and production scoring.
+
+**Stack:** Python • pandas • NumPy • SQL • DuckDB • Parquet • scikit-learn • SciPy • statsmodels • FastAPI • Pydantic • Docker • pytest • Ruff • GitHub Actions
+
+> Synthetic customer-journey data is used throughout. The project contains no proprietary Trainline data, and commercial-impact values are simulated analytical estimates.
+
+[![Open Repository](https://img.shields.io/badge/OPEN_REPOSITORY-111827?style=for-the-badge&logo=github&logoColor=white)](https://github.com/tosinmulero/railsearch-customer-journey-intelligence)
+[![Executive Findings](https://img.shields.io/badge/EXECUTIVE_FINDINGS-059669?style=for-the-badge)](https://github.com/tosinmulero/railsearch-customer-journey-intelligence/blob/main/reports/STAGE3_EXECUTIVE_FINDINGS.md)
+[![Architecture](https://img.shields.io/badge/ARCHITECTURE-06B6D4?style=for-the-badge)](https://github.com/tosinmulero/railsearch-customer-journey-intelligence/blob/main/docs/ARCHITECTURE.md)
+
+---
+
+## 04 — Credit Risk Intelligence & Explainable Default Prediction
 
 [![Data Science Flagship](https://img.shields.io/badge/DATA_SCIENCE_FLAGSHIP-A855F7?style=for-the-badge)](https://github.com/tosinmulero/credit-risk-explainable-ai)
 
@@ -148,7 +186,7 @@ Production-style credit-risk workflow covering model benchmarking, Optuna tuning
 
 ---
 
-## 04 — Customer 360 & Revenue Growth Analytics
+## 05 — Customer 360 & Revenue Growth Analytics
 
 [![Analytics & BI Flagship](https://img.shields.io/badge/ANALYTICS_%26_BI_FLAGSHIP-2563EB?style=for-the-badge)](https://github.com/tosinmulero/customer-360-revenue-growth-analytics)
 
@@ -163,7 +201,7 @@ End-to-end commercial analytics combining SQL, Python, Power BI, segmentation, f
 
 ---
 
-## 05 — NHS Hospital Performance & Patient Flow
+## 06 — NHS Hospital Performance & Patient Flow
 
 [![Healthcare Analytics](https://img.shields.io/badge/HEALTHCARE_ANALYTICS-005EB8?style=for-the-badge)](https://github.com/tosinmulero/nhs-hospital-performance-analysis)
 [![Power BI](https://img.shields.io/badge/POWER_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=111827)](https://github.com/tosinmulero/nhs-hospital-performance-analysis)
@@ -190,7 +228,7 @@ Provider benchmarking, four-hour performance, 12-hour waits, regional variation 
 
 ---
 
-## 06 — Olist E-Commerce Analytics
+## 07 — Olist E-Commerce Analytics
 
 [![E-Commerce Analytics](https://img.shields.io/badge/E--COMMERCE_ANALYTICS-7C3AED?style=for-the-badge)](https://github.com/tosinmulero/olist-ecommerce-analysis)
 [![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)](https://github.com/tosinmulero/olist-ecommerce-analysis)
@@ -218,7 +256,7 @@ Commercial, customer, logistics and retention analytics using PostgreSQL, SQL, P
 
 ---
 
-## 07 — Cyclistic Rider Behaviour Analysis
+## 08 — Cyclistic Rider Behaviour Analysis
 
 [![Mobility Analytics](https://img.shields.io/badge/MOBILITY_ANALYTICS-06B6D4?style=for-the-badge)](https://github.com/tosinmulero/cyclistic-rider-behaviour-analysis)
 [![Power BI](https://img.shields.io/badge/POWER_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=111827)](https://github.com/tosinmulero/cyclistic-rider-behaviour-analysis)
@@ -246,7 +284,7 @@ Large-scale mobility analysis comparing member and casual rider behaviour across
 
 ---
 
-## 08 — Bellabeat Wellness Analysis
+## 09 — Bellabeat Wellness Analysis
 
 [![Wellness Analytics](https://img.shields.io/badge/WELLNESS_ANALYTICS-10B981?style=for-the-badge)](https://github.com/tosinmulero/bellabeat-wellness-analysis)
 [![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://github.com/tosinmulero/bellabeat-wellness-analysis)
