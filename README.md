@@ -203,6 +203,12 @@ End-to-end UK rail **data engineering, machine-learning and cloud deployment pla
 
 Production-style digital rail **product-intelligence platform** covering search-to-book funnel analytics, zero-result and checkout-friction investigation, statistical incident analysis, anomaly detection, leakage-aware temporal conversion modelling, explainability and production scoring through FastAPI.
 
+<p align="center">
+  <a href="https://github.com/tosinmulero/railsearch-customer-journey-intelligence">
+    <img src="https://raw.githubusercontent.com/tosinmulero/railsearch-customer-journey-intelligence/main/reports/figures/daily_conversion_rate.png" alt="RailSearch Daily Conversion Rate" width="100%">
+  </a>
+</p>
+
 | KPI | Result |
 |---|---:|
 | Sessions | **150,000** |
