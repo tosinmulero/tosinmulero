@@ -4,6 +4,7 @@
 
 <p align="center">
   <a href="https://tosinmulero.github.io/data-analytics-portfolio/"><img src="https://img.shields.io/badge/PORTFOLIO-06B6D4?style=for-the-badge&logo=googlechrome&logoColor=white"></a>
+  <a href="https://github.com/tosinmulero/railnexus-b2b-product-growth-intelligence"><img src="https://img.shields.io/badge/RAILNEXUS-B2B_PRODUCT_DS-0F766E?style=for-the-badge&logo=python&logoColor=white"></a>
   <a href="https://github.com/tosinmulero/railpartner-360"><img src="https://img.shields.io/badge/RAILPARTNER_360-2563EB?style=for-the-badge"></a>
   <br>
   <a href="https://github.com/tosinmulero/railflow-ml-data-platform"><img src="https://img.shields.io/badge/RAILFLOW_ML_PLATFORM-7C3AED?style=for-the-badge&logo=amazonaws&logoColor=white"></a>
@@ -19,8 +20,8 @@ The **GitHub profile and portfolio website use the same project hierarchy, metri
 
 | Portfolio proof | Evidence |
 |---|---:|
-| End-to-end case studies | **9** |
-| Flagship rail systems | **3** |
+| End-to-end case studies | **10** |
+| Flagship rail systems | **4** |
 | Rail searches analysed | **6.00M** |
 | Rail bookings analysed | **2.00M** |
 | Rail platform revenue | **£9.03M** |
@@ -30,6 +31,9 @@ The **GitHub profile and portfolio website use the same project hierarchy, metri
 | RailSearch customer searches | **260,724** |
 | RailSearch bookings | **77,759** |
 | RailSearch top-decile lift | **1.386×** |
+| RailNexus active B2B partners | **600** |
+| RailNexus network stations | **360** |
+| RailNexus MLP top-decile lift | **1.257×** |
 | Customer 360 customers analysed | **270,154** |
 | Cyclistic rides analysed | **5.93M** |
 | Olist delivered orders | **96,211** |
@@ -68,7 +72,42 @@ The **GitHub profile and portfolio website use the same project hierarchy, metri
 
 # Featured Portfolio Projects
 
-## 01 — RailPartner 360 — B2B Rail Retail & Customer Intelligence
+## 01 — RailNexus — B2B Product Growth, Experimentation & Network Intelligence
+
+[![B2B Product Data Science Flagship](https://img.shields.io/badge/B2B_PRODUCT_DATA_SCIENCE_FLAGSHIP-0F766E?style=for-the-badge)](https://github.com/tosinmulero/railnexus-b2b-product-growth-intelligence)
+[![Experimentation](https://img.shields.io/badge/EXPERIMENTATION-2563EB?style=flat-square)](https://github.com/tosinmulero/railnexus-b2b-product-growth-intelligence/blob/main/docs/EXPERIMENT_CARD.md)
+[![Responsible AI](https://img.shields.io/badge/RESPONSIBLE_AI-7C3AED?style=flat-square)](https://github.com/tosinmulero/railnexus-b2b-product-growth-intelligence/blob/main/docs/AI_ASSISTED_INVESTIGATION.md)
+
+End-to-end synthetic **B2B rail product-intelligence platform** combining partner growth analytics, rigorous experimentation, graph/geospatial opportunity analysis, predictive modelling, partner segmentation, responsible-AI investigation, Streamlit, FastAPI, Docker and CI/CD.
+
+| KPI | Result |
+|---|---:|
+| Sessions | **10,000** |
+| Searches | **13,602** |
+| Bookings | **2,867** |
+| Active B2B partners | **600** |
+| Session booking conversion | **27.01%** |
+| Network stations | **360** |
+| Directed routes analysed | **11,822** |
+| Champion booking model | **MLP** |
+| Locked test PR-AUC | **0.3116** |
+| Top-decile lift | **1.257×** |
+
+**Experimentation:** session-level intent-to-treat analysis with SRM checks, confidence intervals, CUPED-style pre-period adjustment, partner-clustered inference, power/MDE, guardrails and FDR-controlled exploratory heterogeneity.
+
+**Network & ML:** weighted PageRank, betweenness centrality, Haversine distance, Logistic Regression, Probit, Random Forest, MLP, K-Means and permutation importance.
+
+**Production layer:** Streamlit • FastAPI • Pydantic • Docker • GitHub Actions • pytest • Ruff
+
+> All RailNexus partner, traveller, route, commercial and experiment data is synthetic. No proprietary Trainline or customer data is used, and the project does not claim actual Trainline business impact.
+
+[![Open Repository](https://img.shields.io/badge/OPEN_REPOSITORY-111827?style=for-the-badge&logo=github&logoColor=white)](https://github.com/tosinmulero/railnexus-b2b-product-growth-intelligence)
+[![Case Study](https://img.shields.io/badge/CASE_STUDY-0F766E?style=for-the-badge)](https://github.com/tosinmulero/railnexus-b2b-product-growth-intelligence/blob/main/docs/CASE_STUDY.md)
+[![Architecture](https://img.shields.io/badge/ARCHITECTURE-06B6D4?style=for-the-badge)](https://github.com/tosinmulero/railnexus-b2b-product-growth-intelligence/blob/main/docs/ARCHITECTURE.md)
+
+---
+
+## 02 — RailPartner 360 — B2B Rail Retail & Customer Intelligence
 
 [![Primary Flagship](https://img.shields.io/badge/PRIMARY_FLAGSHIP-06B6D4?style=flat-square)](https://github.com/tosinmulero/railpartner-360)
 [![Analytics Engineering](https://img.shields.io/badge/ANALYTICS_ENGINEERING-2563EB?style=flat-square)](https://github.com/tosinmulero/railpartner-360)
@@ -105,7 +144,7 @@ End-to-end analytics engineering and BI platform connecting **customer conversio
 
 ---
 
-## 02 — RailFlow ML Data Platform
+## 03 — RailFlow ML Data Platform
 
 [![Data & ML Engineering](https://img.shields.io/badge/DATA_%26_ML_ENGINEERING-7C3AED?style=flat-square)](https://github.com/tosinmulero/railflow-ml-data-platform)
 [![PySpark](https://img.shields.io/badge/PySpark-E25A1C?style=flat-square&logo=apachespark&logoColor=white)](https://github.com/tosinmulero/railflow-ml-data-platform)
@@ -139,13 +178,13 @@ End-to-end UK rail **data engineering, machine-learning and cloud deployment pla
 
 ---
 
-## 03 — RailSearch — Customer Journey & Conversion Intelligence
+## 04 — RailSearch — Customer Journey & Conversion Intelligence
 
 [![Product Data Science Flagship](https://img.shields.io/badge/PRODUCT_DATA_SCIENCE_FLAGSHIP-059669?style=for-the-badge)](https://github.com/tosinmulero/railsearch-customer-journey-intelligence)
 [![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)](https://github.com/tosinmulero/railsearch-customer-journey-intelligence)
 [![DuckDB](https://img.shields.io/badge/DuckDB-FFF000?style=flat-square&logo=duckdb&logoColor=111827)](https://github.com/tosinmulero/railsearch-customer-journey-intelligence)
 
-Production-style digital rail **product-intelligence platform** covering search-to-book funnel analytics, zero-result and checkout-friction investigation, statistical incident analysis, anomaly detection, leakage-safe temporal conversion modelling, explainability and production scoring through FastAPI.
+Production-style digital rail **product-intelligence platform** covering search-to-book funnel analytics, zero-result and checkout-friction investigation, statistical incident analysis, anomaly detection, leakage-aware temporal conversion modelling, explainability and production scoring through FastAPI.
 
 | KPI | Result |
 |---|---:|
@@ -160,7 +199,7 @@ Production-style digital rail **product-intelligence platform** covering search-
 
 **Product investigation:** zero-result and checkout-friction analysis, statistical incident testing, counterfactual commercial-impact estimation and anomaly detection.
 
-**ML:** leakage-safe temporal validation using January–April training, May validation and a locked June test set, followed by explainability and production scoring.
+**ML:** temporal train/validation/test design with leakage-aware feature selection, followed by explainability and production scoring.
 
 **Stack:** Python • pandas • NumPy • SQL • DuckDB • Parquet • scikit-learn • SciPy • statsmodels • FastAPI • Pydantic • Docker • pytest • Ruff • GitHub Actions
 
@@ -172,7 +211,7 @@ Production-style digital rail **product-intelligence platform** covering search-
 
 ---
 
-## 04 — Credit Risk Intelligence & Explainable Default Prediction
+## 05 — Credit Risk Intelligence & Explainable Default Prediction
 
 [![Data Science Flagship](https://img.shields.io/badge/DATA_SCIENCE_FLAGSHIP-A855F7?style=for-the-badge)](https://github.com/tosinmulero/credit-risk-explainable-ai)
 
@@ -191,7 +230,7 @@ Production-style credit-risk workflow covering model benchmarking, Optuna tuning
 
 ---
 
-## 05 — Customer 360 & Revenue Growth Analytics
+## 06 — Customer 360 & Revenue Growth Analytics
 
 [![Analytics & BI Flagship](https://img.shields.io/badge/ANALYTICS_%26_BI_FLAGSHIP-2563EB?style=for-the-badge)](https://github.com/tosinmulero/customer-360-revenue-growth-analytics)
 
@@ -209,7 +248,7 @@ End-to-end commercial analytics combining SQL, Python, Power BI, segmentation, f
 
 ---
 
-## 06 — NHS Hospital Performance & Patient Flow
+## 07 — NHS Hospital Performance & Patient Flow
 
 [![Healthcare Analytics](https://img.shields.io/badge/HEALTHCARE_ANALYTICS-005EB8?style=for-the-badge)](https://github.com/tosinmulero/nhs-hospital-performance-analysis)
 [![Power BI](https://img.shields.io/badge/POWER_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=111827)](https://github.com/tosinmulero/nhs-hospital-performance-analysis)
@@ -236,7 +275,7 @@ Provider benchmarking, four-hour performance, 12-hour waits, regional variation 
 
 ---
 
-## 07 — Olist E-Commerce Analytics
+## 08 — Olist E-Commerce Analytics
 
 [![E-Commerce Analytics](https://img.shields.io/badge/E--COMMERCE_ANALYTICS-7C3AED?style=for-the-badge)](https://github.com/tosinmulero/olist-ecommerce-analysis)
 [![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)](https://github.com/tosinmulero/olist-ecommerce-analysis)
@@ -264,7 +303,7 @@ Commercial, customer, logistics and retention analytics using PostgreSQL, SQL, P
 
 ---
 
-## 08 — Cyclistic Rider Behaviour Analysis
+## 09 — Cyclistic Rider Behaviour Analysis
 
 [![Mobility Analytics](https://img.shields.io/badge/MOBILITY_ANALYTICS-06B6D4?style=for-the-badge)](https://github.com/tosinmulero/cyclistic-rider-behaviour-analysis)
 [![Power BI](https://img.shields.io/badge/POWER_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=111827)](https://github.com/tosinmulero/cyclistic-rider-behaviour-analysis)
@@ -292,7 +331,7 @@ Large-scale mobility analysis comparing member and casual rider behaviour across
 
 ---
 
-## 09 — Bellabeat Wellness Analysis
+## 10 — Bellabeat Wellness Analysis
 
 [![Wellness Analytics](https://img.shields.io/badge/WELLNESS_ANALYTICS-10B981?style=for-the-badge)](https://github.com/tosinmulero/bellabeat-wellness-analysis)
 [![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://github.com/tosinmulero/bellabeat-wellness-analysis)
