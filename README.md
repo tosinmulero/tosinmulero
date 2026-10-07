@@ -85,6 +85,12 @@ The **GitHub profile and portfolio website use the same project hierarchy, metri
 
 End-to-end synthetic **B2B rail product-intelligence platform** combining partner growth analytics, rigorous experimentation, graph/geospatial opportunity analysis, predictive modelling, partner segmentation, responsible-AI investigation and production engineering.
 
+<p align="center">
+  <a href="https://github.com/tosinmulero/railnexus-b2b-product-growth-intelligence">
+    <img src="https://raw.githubusercontent.com/tosinmulero/railnexus-b2b-product-growth-intelligence/main/docs/screenshots/01_executive_overview.png" alt="RailNexus Executive Overview" width="100%">
+  </a>
+</p>
+
 | KPI | Result |
 |---|---:|
 | Sessions | **10,000** |
