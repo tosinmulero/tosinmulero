@@ -5,21 +5,25 @@
 <p align="center">
   <a href="https://tosinmulero.github.io/data-analytics-portfolio/"><img src="https://img.shields.io/badge/PORTFOLIO-06B6D4?style=for-the-badge&logo=googlechrome&logoColor=white"></a>
   <a href="https://github.com/tosinmulero/railpartner-360"><img src="https://img.shields.io/badge/PRIMARY_FLAGSHIP-RAILPARTNER_360-2563EB?style=for-the-badge"></a>
+  <a href="https://github.com/tosinmulero/railflow-ml-data-platform"><img src="https://img.shields.io/badge/DATA_%26_ML_CLOUD-RAILFLOW-7C3AED?style=for-the-badge&logo=amazonaws&logoColor=white"></a>
   <a href="https://www.linkedin.com/in/oluwatosin-mulero-55a578140"><img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"></a>
 </p>
 
-# Analytics Engineering • Business Intelligence • Data Science
+# Analytics Engineering • Data Engineering • Business Intelligence • Data Science • MLOps
 
-I build **decision-ready analytical systems**, not isolated charts. My portfolio combines SQL, PostgreSQL, dbt, Python, Power BI, PBIP/PBIR/TMDL, machine learning, automation and reproducible analytics engineering.
+I build **decision-ready analytical and machine-learning systems**, not isolated charts. My portfolio combines SQL, PostgreSQL, dbt, Python, PySpark, Airflow, Power BI, machine learning, MLOps, Docker, Terraform and AWS cloud deployment.
 
 The **GitHub profile and portfolio website use the same project hierarchy, metrics and evidence**.
 
 | Portfolio proof | Evidence |
 |---|---:|
-| End-to-end case studies | **7** |
+| End-to-end case studies | **8** |
 | Rail searches analysed | **6.00M** |
 | Rail bookings analysed | **2.00M** |
 | Rail platform revenue | **£9.03M** |
+| RailFlow validated station records | **2,593** |
+| RailFlow Terraform-managed AWS resources | **25** |
+| RailFlow automated pytest passes | **38** |
 | Customer 360 customers analysed | **270,154** |
 | Cyclistic rides analysed | **5.93M** |
 | Olist delivered orders | **96,211** |
@@ -40,11 +44,17 @@ The **GitHub profile and portfolio website use the same project hierarchy, metri
   <img src="https://img.shields.io/badge/XGBoost-FF6600?style=flat-square">
   <img src="https://img.shields.io/badge/SHAP-A855F7?style=flat-square">
   <img src="https://img.shields.io/badge/MLflow-0194E2?style=flat-square&logo=mlflow&logoColor=white">
+  <img src="https://img.shields.io/badge/PySpark-E25A1C?style=flat-square&logo=apachespark&logoColor=white">
+  <img src="https://img.shields.io/badge/Airflow-017CEE?style=flat-square&logo=apacheairflow&logoColor=white">
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white">
+  <img src="https://img.shields.io/badge/Terraform-844FBA?style=flat-square&logo=terraform&logoColor=white">
+  <img src="https://img.shields.io/badge/AWS_ECS%2FFargate-FF9900?style=flat-square&logo=amazonaws&logoColor=white">
 </p>
 
-**Analytics Engineering:** PostgreSQL • SQL • dbt • dimensional modelling • marts • validation • automation  
-**Business Intelligence:** Power BI • DAX • Power Query • PBIP • PBIR • TMDL • executive reporting  
-**Data Science:** Python • pandas • scikit-learn • XGBoost • LightGBM • Optuna • SHAP  
+**Analytics Engineering:** PostgreSQL • SQL • dbt • dimensional modelling • marts • validation • automation
+**Business Intelligence:** Power BI • DAX • Power Query • PBIP • PBIR • TMDL • executive reporting
+**Data Science:** Python • pandas • scikit-learn • XGBoost • LightGBM • Optuna • SHAP
+**Data Engineering & MLOps:** PySpark • Airflow • Docker • Terraform • AWS ECS/Fargate • GitHub OIDC
 **Delivery:** Git • GitHub • GitHub Actions • Pytest • MLflow • FastAPI • Streamlit
 
 ---
@@ -87,7 +97,40 @@ End-to-end analytics engineering and BI platform connecting **customer conversio
 
 ---
 
-## 02 — Credit Risk Intelligence & Explainable Default Prediction
+## 02 — RailFlow ML Data Platform
+
+[![Data & ML Engineering Flagship](https://img.shields.io/badge/DATA_%26_ML_ENGINEERING_FLAGSHIP-7C3AED?style=for-the-badge)](https://github.com/tosinmulero/railflow-ml-data-platform)
+[![PySpark](https://img.shields.io/badge/PySpark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white)](https://github.com/tosinmulero/railflow-ml-data-platform)
+[![Airflow](https://img.shields.io/badge/Airflow-017CEE?style=for-the-badge&logo=apacheairflow&logoColor=white)](https://github.com/tosinmulero/railflow-ml-data-platform)
+[![Terraform](https://img.shields.io/badge/Terraform-844FBA?style=for-the-badge&logo=terraform&logoColor=white)](https://github.com/tosinmulero/railflow-ml-data-platform)
+[![AWS Deployment Verified](https://img.shields.io/badge/AWS_ECS%2FFARGATE-DEPLOYMENT_VERIFIED-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)](https://github.com/tosinmulero/railflow-ml-data-platform/blob/main/docs/deployment-evidence.md)
+
+End-to-end UK rail **data engineering, machine-learning and cloud deployment platform** spanning medallion architecture, analytics engineering, orchestration, model governance, API serving, CI/CD and Infrastructure as Code.
+
+| KPI | Result |
+|---|---:|
+| Source records processed | **2,595** |
+| Validated Silver/Gold station records | **2,593** |
+| dbt build | **29 PASS / 0 ERROR** |
+| Automated pytest tests | **38 passed** |
+| Champion RMSLE improvement vs baseline | **36.49%** |
+| Terraform-managed AWS resources provisioned | **25** |
+| ECS/Fargate deployment | **Verified** |
+| Live API endpoints validated | **3** |
+
+**Architecture:** Raw → Bronze → Silver → Gold → dbt → ML Feature Store → MLflow → FastAPI → Docker → ECR → ECS/Fargate → ALB
+
+**Stack:** Python • PySpark • SQL • Parquet • dbt • DuckDB • Apache Airflow • scikit-learn • MLflow • FastAPI • Docker • GitHub Actions • Terraform • AWS ECS/Fargate • ECR • ALB • IAM • CloudWatch
+
+> The ML model is presented as a cross-sectional engineering baseline rather than overstated as a production forecasting model. AWS deployment was successfully verified end-to-end; infrastructure may be torn down after validation to control portfolio cloud cost.
+
+[![Open Repository](https://img.shields.io/badge/OPEN_REPOSITORY-111827?style=for-the-badge&logo=github&logoColor=white)](https://github.com/tosinmulero/railflow-ml-data-platform)
+[![Deployment Evidence](https://img.shields.io/badge/DEPLOYMENT_EVIDENCE-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)](https://github.com/tosinmulero/railflow-ml-data-platform/blob/main/docs/deployment-evidence.md)
+[![Architecture](https://img.shields.io/badge/ARCHITECTURE-06B6D4?style=for-the-badge)](https://github.com/tosinmulero/railflow-ml-data-platform/blob/main/docs/architecture/railflow-platform.md)
+
+---
+
+## 03 — Credit Risk Intelligence & Explainable Default Prediction
 
 [![Data Science Flagship](https://img.shields.io/badge/DATA_SCIENCE_FLAGSHIP-A855F7?style=for-the-badge)](https://github.com/tosinmulero/credit-risk-explainable-ai)
 
@@ -102,7 +145,7 @@ Production-style credit-risk workflow covering model benchmarking, Optuna tuning
 
 ---
 
-## 03 — Customer 360 & Revenue Growth Analytics
+## 04 — Customer 360 & Revenue Growth Analytics
 
 [![Analytics & BI Flagship](https://img.shields.io/badge/ANALYTICS_%26_BI_FLAGSHIP-2563EB?style=for-the-badge)](https://github.com/tosinmulero/customer-360-revenue-growth-analytics)
 
@@ -117,7 +160,7 @@ End-to-end commercial analytics combining SQL, Python, Power BI, segmentation, f
 
 ---
 
-## 04 — NHS Hospital Performance & Patient Flow
+## 05 — NHS Hospital Performance & Patient Flow
 
 [![Healthcare Analytics](https://img.shields.io/badge/HEALTHCARE_ANALYTICS-005EB8?style=for-the-badge)](https://github.com/tosinmulero/nhs-hospital-performance-analysis)
 [![Power BI](https://img.shields.io/badge/POWER_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=111827)](https://github.com/tosinmulero/nhs-hospital-performance-analysis)
@@ -144,7 +187,7 @@ Provider benchmarking, four-hour performance, 12-hour waits, regional variation 
 
 ---
 
-## 05 — Olist E-Commerce Analytics
+## 06 — Olist E-Commerce Analytics
 
 [![E-Commerce Analytics](https://img.shields.io/badge/E--COMMERCE_ANALYTICS-7C3AED?style=for-the-badge)](https://github.com/tosinmulero/olist-ecommerce-analysis)
 [![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)](https://github.com/tosinmulero/olist-ecommerce-analysis)
@@ -172,7 +215,7 @@ Commercial, customer, logistics and retention analytics using PostgreSQL, SQL, P
 
 ---
 
-## 06 — Cyclistic Rider Behaviour Analysis
+## 07 — Cyclistic Rider Behaviour Analysis
 
 [![Mobility Analytics](https://img.shields.io/badge/MOBILITY_ANALYTICS-06B6D4?style=for-the-badge)](https://github.com/tosinmulero/cyclistic-rider-behaviour-analysis)
 [![Power BI](https://img.shields.io/badge/POWER_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=111827)](https://github.com/tosinmulero/cyclistic-rider-behaviour-analysis)
@@ -200,7 +243,7 @@ Large-scale mobility analysis comparing member and casual rider behaviour across
 
 ---
 
-## 07 — Bellabeat Wellness Analysis
+## 08 — Bellabeat Wellness Analysis
 
 [![Wellness Analytics](https://img.shields.io/badge/WELLNESS_ANALYTICS-10B981?style=for-the-badge)](https://github.com/tosinmulero/bellabeat-wellness-analysis)
 [![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://github.com/tosinmulero/bellabeat-wellness-analysis)
