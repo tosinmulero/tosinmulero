@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/profile-hero.svg" alt="Oluwatosin Oluwaseun Mulero — Analytics Engineering, Data Analytics, Business Intelligence and Data Science" width="100%">
+  <img src="assets/profile-hero.svg" alt="Oluwatosin Oluwaseun Mulero — Product Analytics, Analytics Engineering, Business Intelligence, Data Science and MLOps" width="100%">
 </p>
 
 <p align="center">
@@ -13,13 +13,14 @@
 
 # Product Analytics • Analytics Engineering • Data Engineering • Business Intelligence • Data Science • MLOps
 
-I build **decision-ready analytical and machine-learning systems**, not isolated charts. My portfolio combines SQL, PostgreSQL, dbt, Python, PySpark, Airflow, Power BI, machine learning, MLOps, Docker, Terraform and AWS cloud deployment.
+I am an **MSc Data Science professional building end-to-end data products that connect business questions to production-grade evidence** — from SQL and analytical warehouses to Power BI, experimentation, machine learning, APIs, orchestration, CI/CD and cloud deployment.
 
 The **GitHub profile and portfolio website use the same project hierarchy, metrics and evidence**.
 
 | Portfolio proof | Evidence |
 |---|---:|
 | End-to-end case studies | **9** |
+| Flagship rail systems | **3** |
 | Rail searches analysed | **6.00M** |
 | Rail bookings analysed | **2.00M** |
 | Rail platform revenue | **£9.03M** |
@@ -52,16 +53,16 @@ The **GitHub profile and portfolio website use the same project hierarchy, metri
   <img src="https://img.shields.io/badge/PySpark-E25A1C?style=flat-square&logo=apachespark&logoColor=white">
   <img src="https://img.shields.io/badge/Airflow-017CEE?style=flat-square&logo=apacheairflow&logoColor=white">
   <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white">
+  <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white">
   <img src="https://img.shields.io/badge/Terraform-844FBA?style=flat-square&logo=terraform&logoColor=white">
   <img src="https://img.shields.io/badge/AWS_ECS%2FFargate-FF9900?style=flat-square&logo=amazonaws&logoColor=white">
 </p>
 
-**Product Analytics:** funnel analysis • conversion • anomaly detection • statistical investigation • commercial impact<br>
-**Analytics Engineering:** PostgreSQL • SQL • dbt • dimensional modelling • marts • validation • automation<br>
-**Business Intelligence:** Power BI • DAX • Power Query • PBIP • PBIR • TMDL • executive reporting<br>
-**Data Science:** Python • pandas • scikit-learn • XGBoost • LightGBM • Optuna • SHAP<br>
-**Data Engineering & MLOps:** PySpark • Airflow • Docker • Terraform • AWS ECS/Fargate • GitHub OIDC<br>
-**Delivery:** Git • GitHub • GitHub Actions • Pytest • MLflow • FastAPI • Streamlit
+**Product Analytics:** funnels • conversion • experimentation • anomaly detection • statistical testing • commercial impact • customer journey<br>
+**Analytics & BI:** SQL • Power BI • DAX • Power Query • Tableau • Excel • KPI design • executive reporting<br>
+**Data Science & AI:** Python • pandas • scikit-learn • XGBoost • LightGBM • Optuna • SHAP • forecasting<br>
+**Data Engineering:** PostgreSQL • DuckDB • dbt • BigQuery • PySpark • Apache Airflow • ETL/ELT • Parquet • data quality<br>
+**MLOps & Cloud Delivery:** MLflow • FastAPI • Docker • Terraform • AWS ECS/Fargate • GitHub Actions • Pytest • Ruff
 
 ---
 
@@ -144,7 +145,7 @@ End-to-end UK rail **data engineering, machine-learning and cloud deployment pla
 [![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)](https://github.com/tosinmulero/railsearch-customer-journey-intelligence)
 [![DuckDB](https://img.shields.io/badge/DuckDB-FFF000?style=flat-square&logo=duckdb&logoColor=111827)](https://github.com/tosinmulero/railsearch-customer-journey-intelligence)
 
-End-to-end **product analytics, statistical investigation, machine learning and MLOps** project modelling the digital rail-booking journey from search through booking.
+Production-style digital rail **product-intelligence platform** covering search-to-book funnel analytics, zero-result and checkout-friction investigation, statistical incident analysis, anomaly detection, leakage-safe temporal conversion modelling, explainability and production scoring through FastAPI.
 
 | KPI | Result |
 |---|---:|
@@ -184,6 +185,10 @@ Production-style credit-risk workflow covering model benchmarking, Optuna tuning
 
 **Stack:** Python • XGBoost • LightGBM • Optuna • SHAP • MLflow • FastAPI • Streamlit • Pytest • GitHub Actions
 
+[![Open Repository](https://img.shields.io/badge/OPEN_REPOSITORY-111827?style=for-the-badge&logo=github&logoColor=white)](https://github.com/tosinmulero/credit-risk-explainable-ai)
+[![Model Card](https://img.shields.io/badge/MODEL_CARD-A855F7?style=for-the-badge)](https://github.com/tosinmulero/credit-risk-explainable-ai/blob/main/docs/MODEL_CARD.md)
+[![Architecture](https://img.shields.io/badge/ARCHITECTURE-06B6D4?style=for-the-badge)](https://github.com/tosinmulero/credit-risk-explainable-ai/blob/main/docs/ARCHITECTURE.md)
+
 ---
 
 ## 05 — Customer 360 & Revenue Growth Analytics
@@ -198,6 +203,9 @@ End-to-end commercial analytics combining SQL, Python, Power BI, segmentation, f
 - **19.25%** synthetic A/B lift
 
 **Stack:** SQL • Python • pandas • Power BI • DAX • Power Query • PBIP • PBIR • TMDL
+
+[![Open Repository](https://img.shields.io/badge/OPEN_REPOSITORY-111827?style=for-the-badge&logo=github&logoColor=white)](https://github.com/tosinmulero/customer-360-revenue-growth-analytics)
+[![Recruiter Summary](https://img.shields.io/badge/RECRUITER_SUMMARY-2563EB?style=for-the-badge)](https://github.com/tosinmulero/customer-360-revenue-growth-analytics/blob/main/docs/RECRUITER_PROJECT_SUMMARY.md)
 
 ---
 
@@ -316,11 +324,10 @@ Fitbit activity and sleep analysis exploring steps, calories, sedentary behaviou
 
 | Standard | Evidence |
 |---|---|
-| **Business relevance** | Commercial and operational questions drive each project |
-| **Reproducibility** | Source-controlled pipelines, documented setup and validation |
-| **Technical depth** | SQL, modelling, BI, ML, architecture and automation |
-| **Decision focus** | KPIs, insights, risk identification and recommendations |
-| **Responsible interpretation** | Limitations and synthetic-data disclosures are explicit |
+| **Recruiter-first narrative** | Business problem, technical approach, measurable outcomes and clear technology stack |
+| **Reproducible engineering** | Source-controlled pipelines, documented setup, structured outputs and automated quality checks |
+| **Technical depth** | Architecture documentation, model evaluation, SQL/BI assets, feature engineering and validation evidence |
+| **Responsible interpretation** | Limitations, synthetic-data disclosures, non-causal interpretation and model-governance boundaries are explicit |
 
 ---
 
@@ -338,4 +345,4 @@ Data analytics • machine learning • statistical modelling • data-driven pr
   <a href="https://tosinmulero.github.io/data-analytics-portfolio/"><img src="https://img.shields.io/badge/OPEN_PORTFOLIO-06B6D4?style=for-the-badge&logo=googlechrome&logoColor=white"></a>
 </p>
 
-<p align="center"><b>Turning complex data into decision-ready systems.</b></p>
+<p align="center"><b>From business question to production-grade evidence.</b></p>
