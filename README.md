@@ -79,9 +79,9 @@ The **GitHub profile and portfolio website share one project order, titles, head
 
 The **project order, descriptions, metrics, technology stacks and links** below are synchronised with the [portfolio website](https://tosinmulero.github.io/data-analytics-portfolio/). **Newest completed project first.**
 
-## 01 â€” NHS Primary Care Data Management & Clinical Intelligence Platform
+## 01 — NHS Primary Care Data Management & Clinical Intelligence Platform
 
-**Primary Care Data Administration â€¢ Healthcare Analytics â€¢ Data Engineering â€¢ Power BI**
+**Primary Care Data Administration • Healthcare Analytics • Data Engineering • Power BI**
 
 End-to-end, independently developed, entirely synthetic GP practice data platform demonstrating patient registration quality, simulated clinical correspondence and pathology review queues, governed SQL and dbt transformations, and six colourful Power BI reporting pages.
 
@@ -94,19 +94,19 @@ End-to-end, independently developed, entirely synthetic GP practice data platfor
 | simulated review cases | **4,749** |
 | Power BI pages | **6** |
 
-**Technology:** Python â€¢ PostgreSQL â€¢ SQL â€¢ pandas â€¢ Pydantic â€¢ pytest â€¢ dbt â€¢ DAX â€¢ Power BI â€¢ PBIP â€¢ PBIR â€¢ TMDL â€¢ GitHub
+**Technology:** Python • PostgreSQL • SQL • pandas • Pydantic • pytest • dbt • DAX • Power BI • PBIP • PBIR • TMDL • GitHub
 
 [Repository](https://github.com/tosinmulero/nhs-primary-care-intelligence-platform) [Architecture](https://github.com/tosinmulero/nhs-primary-care-intelligence-platform#architecture) [Six dashboards](https://github.com/tosinmulero/nhs-primary-care-intelligence-platform#all-six-pages)
 
 **Six genuine Power BI dashboard screenshots:**
 
-[Executive overview](https://github.com/tosinmulero/nhs-primary-care-intelligence-platform/blob/main/docs/images/page-01-executive.png) Â· [Demographics](https://github.com/tosinmulero/nhs-primary-care-intelligence-platform/blob/main/docs/images/page-02-demographics.png) Â· [Coding and record quality](https://github.com/tosinmulero/nhs-primary-care-intelligence-platform/blob/main/docs/images/page-03-coding-quality.png) Â· [Pathology and correspondence](https://github.com/tosinmulero/nhs-primary-care-intelligence-platform/blob/main/docs/images/page-04-pathology.png) Â· [Clinical cohorts and QOF-style indicators](https://github.com/tosinmulero/nhs-primary-care-intelligence-platform/blob/main/docs/images/page-05-clinical-qof.png) Â· [Data governance](https://github.com/tosinmulero/nhs-primary-care-intelligence-platform/blob/main/docs/images/page-06-governance.png)
+[Executive overview](https://github.com/tosinmulero/nhs-primary-care-intelligence-platform/blob/main/docs/images/page-01-executive.png) · [Demographics](https://github.com/tosinmulero/nhs-primary-care-intelligence-platform/blob/main/docs/images/page-02-demographics.png) · [Coding and record quality](https://github.com/tosinmulero/nhs-primary-care-intelligence-platform/blob/main/docs/images/page-03-coding-quality.png) · [Pathology and correspondence](https://github.com/tosinmulero/nhs-primary-care-intelligence-platform/blob/main/docs/images/page-04-pathology.png) · [Clinical cohorts and QOF-style indicators](https://github.com/tosinmulero/nhs-primary-care-intelligence-platform/blob/main/docs/images/page-05-clinical-qof.png) · [Data governance](https://github.com/tosinmulero/nhs-primary-care-intelligence-platform/blob/main/docs/images/page-06-governance.png)
 
 > Independent synthetic demonstration only. Not affiliated with or endorsed by the NHS or Guide Post Medical Group. No real patient data, NHS connections, clinical decisions or validated QOF results.
 
 ---
 
-## 02 â€” RailNexus — B2B Product Growth, Experimentation & Network Intelligence
+## 02 — RailNexus — B2B Product Growth, Experimentation & Network Intelligence
 
 **B2B Product Analytics • Experimentation • Data Science • Responsible AI**
 
@@ -129,7 +129,7 @@ End-to-end synthetic B2B rail product-intelligence platform combining partner gr
 
 ---
 
-## 03 â€” RailPartner 360 — B2B Rail Retail & Customer Intelligence
+## 03 — RailPartner 360 — B2B Rail Retail & Customer Intelligence
 
 **Analytics Engineering • B2B Rail • Power BI**
 
@@ -152,7 +152,7 @@ End-to-end rail retail analytics platform combining PostgreSQL, dbt, Python and 
 
 ---
 
-## 04 â€” RailFlow ML Data Platform
+## 04 — RailFlow ML Data Platform
 
 **Data Engineering • MLOps • Cloud Engineering**
 
@@ -175,7 +175,7 @@ End-to-end UK rail data and machine-learning platform spanning medallion data en
 
 ---
 
-## 05 â€” RailSearch — Customer Journey & Conversion Intelligence
+## 05 — RailSearch — Customer Journey & Conversion Intelligence
 
 **Product Analytics • Data Science • Machine Learning • MLOps**
 
@@ -198,7 +198,7 @@ Production-style digital rail product-intelligence platform covering search-to-b
 
 ---
 
-## 06 â€” Credit Risk Intelligence & Explainable Default Prediction
+## 06 — Credit Risk Intelligence & Explainable Default Prediction
 
 **Machine Learning • Explainable AI • MLOps**
 
@@ -221,7 +221,7 @@ Production-style credit-risk workflow covering model benchmarking, Optuna tuning
 
 ---
 
-## 07 â€” Customer 360 & Revenue Growth Analytics
+## 07 — Customer 360 & Revenue Growth Analytics
 
 **Commercial Analytics • Power BI • Forecasting**
 
@@ -244,7 +244,7 @@ End-to-end commercial analytics combining SQL, Python, Power BI, customer segmen
 
 ---
 
-## 08 â€” NHS Hospital Performance & Patient Flow
+## 08 — NHS Hospital Performance & Patient Flow
 
 **Healthcare Analytics • SQL • Power BI**
 
@@ -264,7 +264,7 @@ Provider benchmarking, four-hour performance, 12-hour waits, regional variation 
 
 ---
 
-## 09 â€” Olist E-Commerce Analytics
+## 09 — Olist E-Commerce Analytics
 
 **E-Commerce • RFM • Logistics**
 
@@ -284,7 +284,7 @@ Commercial, customer, logistics and retention analytics with PostgreSQL, SQL, Po
 
 ---
 
-## 10 â€” Cyclistic Rider Behaviour Analysis
+## 10 — Cyclistic Rider Behaviour Analysis
 
 **Mobility Analytics • Behaviour • Power BI**
 
@@ -304,7 +304,7 @@ Large-scale bike-share analysis comparing member and casual rider patterns acros
 
 ---
 
-## 11 â€” Bellabeat Wellness Analysis
+## 11 — Bellabeat Wellness Analysis
 
 **Wellness Analytics • Behaviour • Power BI**
 
