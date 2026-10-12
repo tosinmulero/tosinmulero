@@ -1,44 +1,58 @@
 <p align="center">
-  <img src="assets/profile-hero.svg" alt="Oluwatosin Oluwaseun Mulero — Product Data Science, Experimentation, Analytics Engineering, Business Intelligence and MLOps" width="100%">
+  <img src="assets/profile-hero.svg" alt="Oluwatosin Mulero — SQL, Power BI, Python, analytics engineering and data science" width="100%">
 </p>
 
-<p align="center">
-  <a href="https://github.com/tosinmulero/nhs-primary-care-intelligence-platform"><img src="https://img.shields.io/badge/LATEST-PROJECT-0D9488?style=for-the-badge&logo=github&logoColor=white"></a>
-  <a href="https://tosinmulero.github.io/data-analytics-portfolio/"><img src="https://img.shields.io/badge/PORTFOLIO-06B6D4?style=for-the-badge&logo=googlechrome&logoColor=white"></a>
-  <a href="https://github.com/tosinmulero/railnexus-b2b-product-growth-intelligence"><img src="https://img.shields.io/badge/RAILNEXUS-B2B_PRODUCT_DS-0F766E?style=for-the-badge&logo=python&logoColor=white"></a>
-  <a href="https://github.com/tosinmulero/railpartner-360"><img src="https://img.shields.io/badge/RAILPARTNER_360-2563EB?style=for-the-badge"></a>
-  <br>
-  <a href="https://github.com/tosinmulero/railflow-ml-data-platform"><img src="https://img.shields.io/badge/RAILFLOW_ML_PLATFORM-7C3AED?style=for-the-badge&logo=amazonaws&logoColor=white"></a>
-  <a href="https://github.com/tosinmulero/railsearch-customer-journey-intelligence"><img src="https://img.shields.io/badge/RAILSEARCH-059669?style=for-the-badge&logo=python&logoColor=white"></a>
-  <a href="https://www.linkedin.com/in/oluwatosin-mulero-55a578140"><img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+# Oluwatosin Mulero | Data Analyst • BI Analyst • Data Scientist
+
+**MSc Data Science, University of Greenwich** · Founder of **Mulero Analytics**, an independent analytics portfolio and professional brand.
+
+I use **SQL, Python and Power BI** to turn complex datasets into validated analysis, executive reporting and reproducible analytical workflows. My work spans healthcare analytics, product and revenue intelligence, data quality, experimentation, machine learning and analytics engineering.
+
+<p>
+  <a href="https://tosinmulero.github.io/data-analytics-portfolio/"><strong>🌐 Portfolio website</strong></a> ·
+  <a href="https://tosinmulero.github.io/data-analytics-portfolio/projects.html"><strong>📊 Case studies</strong></a> ·
+  <a href="https://www.linkedin.com/in/oluwatosin-mulero-55a578140"><strong>LinkedIn</strong></a> ·
+  <a href="mailto:tosinmulero@gmail.com?subject=Recruitment%20or%20analytics%20enquiry"><strong>✉️ Contact / request CV</strong></a>
 </p>
 
-# Product Data Science • Experimentation • Analytics Engineering • Business Intelligence • MLOps
+> **Portfolio context:** The 11 case studies are independently developed. Individual projects use synthetic, public or other documented datasets; their results are not presented as commercial client outcomes. Consult each repository for data provenance, limitations and reproduction steps.
 
-I am an **MSc Data Science professional building end-to-end analytical products that connect commercial questions to reproducible evidence** — from SQL and analytical warehouses to experimentation, machine learning, graph analytics, responsible AI, APIs, CI/CD and cloud delivery.
+## Six projects to review first
 
-The **GitHub profile and portfolio website share one project order, titles, headline metrics and links**, with the newest completed project first.
-🌐 **Portfolio:** https://tosinmulero.github.io/data-analytics-portfolio/
+| Project | Why it matters |
+|---|---|
+| [NHS Primary Care Intelligence](https://github.com/tosinmulero/nhs-primary-care-intelligence-platform) | Synthetic clinical administration data, governed SQL, validation and six Power BI pages |
+| [RailNexus — B2B Product Intelligence](https://github.com/tosinmulero/railnexus-b2b-product-growth-intelligence) | Product analytics, statistical experimentation, segmentation and predictive models |
+| [RailPartner 360](https://github.com/tosinmulero/railpartner-360) | PostgreSQL, dbt, Python and Power BI across rail retail and partner performance |
+| [Credit Risk & Explainable AI](https://github.com/tosinmulero/credit-risk-explainable-ai) | Model development, SHAP explainability, validation and MLOps |
+| [Customer 360 & Revenue Growth](https://github.com/tosinmulero/customer-360-revenue-growth-analytics) | Customer/revenue KPIs, cohorts, forecasting and experimentation |
+| [Mulero Analytics Website](https://github.com/tosinmulero/data-analytics-portfolio) | Responsive portfolio, documented projects and GitHub Pages deployment |
+
+**Core strengths:** SQL & PostgreSQL · Python & pandas · Power BI, DAX & Power Query · Data cleaning & QA · dbt & ELT · Statistical modelling · Machine learning · Git & CI.
+
+<details>
+<summary><strong>More portfolio evidence and selected project metrics</strong></summary>
 
 | Portfolio proof | Evidence |
 |---|---:|
-| End-to-end case studies | **11** |
-| Flagship rail systems | **4** |
-| Rail searches analysed | **6.00M** |
-| Rail bookings analysed | **2.00M** |
-| Rail platform revenue | **£9.03M** |
+| Independently documented case studies | **11** |
+| Rail searches analysed (RailPartner 360) | **6.00M** |
+| Rail bookings analysed (RailPartner 360) | **2.00M** |
+| Rail platform revenue in project data (RailPartner 360) | **£9.03M** |
 | RailFlow validated station records | **2,593** |
 | RailFlow Terraform-managed AWS resources | **25** |
 | RailFlow automated pytest passes | **38** |
 | RailSearch customer searches | **260,724** |
 | RailSearch bookings | **77,759** |
 | RailSearch top-decile lift | **1.386×** |
-| RailNexus active B2B partners | **600** |
+| RailNexus active fictional B2B partners | **600** |
 | RailNexus network stations | **360** |
 | RailNexus MLP top-decile lift | **1.257×** |
 | Customer 360 customers analysed | **270,154** |
 | Cyclistic rides analysed | **5.93M** |
 | Olist delivered orders | **96,211** |
+
+</details>
 
 ---
 
