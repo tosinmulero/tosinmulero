@@ -15,12 +15,33 @@ I use **SQL, Python and Power BI** to turn complex datasets into validated analy
   <a href="mailto:tosinmulero@gmail.com?subject=Recruitment%20or%20analytics%20enquiry"><strong>✉️ Contact / request CV</strong></a>
 </p>
 
-> **Portfolio context:** The 11 case studies are independently developed. Individual projects use synthetic, public or other documented datasets; their results are not presented as commercial client outcomes. Consult each repository for data provenance, limitations and reproduction steps.
+> **Portfolio context:** The 12 case studies are independently developed. Individual projects use synthetic, public or other documented datasets; their results are not presented as commercial client outcomes. Consult each repository for data provenance, limitations and reproduction steps.
 
-## Six projects to review first
+## ⭐ Featured Project — Fintech Product Science Lab
+
+[![Fintech Product Science Lab — independent synthetic A/B testing, causal inference and churn modelling](https://raw.githubusercontent.com/tosinmulero/data-analytics-portfolio/main/images/fintech-product-science-lab.svg)](https://tosinmulero.github.io/data-analytics-portfolio/product-science-lab/)
+
+A **reproducible, independent fintech data science portfolio** covering randomised onboarding experimentation, observational causal inference, temporal churn modelling, executive product decisions and a hypothetical data science leadership framework.
+
+| Synthetic study | Demonstration result |
+|---|---:|
+| Seven-day first-payment activation (randomised A/B test) | **+3.79 percentage points** |
+| Weekly engagement (conditional difference-in-differences) | **+5.37 percentage points** |
+| Thirty-day churn (future-holdout model ROC AUC) | **0.799** |
+
+**Technology:** Python · SQL · pandas · SciPy · statsmodels · scikit-learn · experimentation · causal inference · GitHub Actions.
+
+[**🔎 Interactive case studies and Decision Lab ↗**](https://tosinmulero.github.io/data-analytics-portfolio/product-science-lab/) · [**💻 Reproducible Python, SQL and tests ↗**](https://github.com/tosinmulero/data-analytics-portfolio/tree/main/fintech-product-science-lab/source) · [**✅ Source validation ↗**](https://github.com/tosinmulero/data-analytics-portfolio/actions/workflows/fintech-source-ci.yml)
+
+> **Research disclosure:** All customers, outcomes and metrics are synthetic. The project does not use Monzo data, imply affiliation with Monzo, prove real-world intervention effects, or establish actual company performance. Leadership examples are proposed practices, not management employment claims.
+
+---
+
+## Seven projects to review first
 
 | Project | Why it matters |
 |---|---|
+| [**⭐ Fintech Product Science Lab**](https://tosinmulero.github.io/data-analytics-portfolio/product-science-lab/) | Synthetic A/B testing, causal inference, churn ML, SQL, reproducibility and a product decision lab |
 | [NHS Primary Care Intelligence](https://github.com/tosinmulero/nhs-primary-care-intelligence-platform) | Synthetic clinical administration data, governed SQL, validation and six Power BI pages |
 | [RailNexus — B2B Product Intelligence](https://github.com/tosinmulero/railnexus-b2b-product-growth-intelligence) | Product analytics, statistical experimentation, segmentation and predictive models |
 | [RailPartner 360](https://github.com/tosinmulero/railpartner-360) | PostgreSQL, dbt, Python and Power BI across rail retail and partner performance |
@@ -35,7 +56,7 @@ I use **SQL, Python and Power BI** to turn complex datasets into validated analy
 
 | Portfolio proof | Evidence |
 |---|---:|
-| Independently documented case studies | **11** |
+| Independently documented case studies | **12** |
 | Rail searches analysed (RailPartner 360) | **6.00M** |
 | Rail bookings analysed (RailPartner 360) | **2.00M** |
 | Rail platform revenue in project data (RailPartner 360) | **£9.03M** |
@@ -93,7 +114,30 @@ I use **SQL, Python and Power BI** to turn complex datasets into validated analy
 
 The **project order, descriptions, metrics, technology stacks and links** below are synchronised with the [portfolio website](https://tosinmulero.github.io/data-analytics-portfolio/). **Newest completed project first.**
 
-## 01 — NHS Primary Care Data Management & Clinical Intelligence Platform
+## 01 — Fintech Product Science Lab — Experimentation, Causal Inference & Retention ML
+
+**Fintech Data Science • Product Experimentation • Causal Inference • Machine Learning**
+
+Independent end-to-end portfolio work with seeded synthetic banking-style customer data, statistical testing, a two-way fixed-effects engagement study, a temporally validated churn model and transparent decision-making guidance.
+
+[![Fintech Product Science Lab preview](https://raw.githubusercontent.com/tosinmulero/data-analytics-portfolio/main/images/fintech-product-science-lab.svg)](https://tosinmulero.github.io/data-analytics-portfolio/product-science-lab/)
+
+| Indicator | Simulated result |
+|---|---:|
+| First-payment activation difference (A/B test) | **+3.79 pp** |
+| Weekly-engagement DiD estimate | **+5.37 pp** |
+| Future-holdout churn ROC AUC | **0.799** |
+| Original local project automated tests | **20 passed** |
+
+**Technology:** Python • SQL • pandas • SciPy • statsmodels • scikit-learn • pytest • GitHub Actions
+
+[Live case studies ↗](https://tosinmulero.github.io/data-analytics-portfolio/product-science-lab/) · [Python and SQL source ↗](https://github.com/tosinmulero/data-analytics-portfolio/tree/main/fintech-product-science-lab/source) · [Technical audit ↗](https://github.com/tosinmulero/data-analytics-portfolio/blob/main/fintech-product-science-lab/source/TECHNICAL_AUDIT.md)
+
+> Synthetic-only demonstration. No real bank customers, no Monzo association, no validated commercial uplift or production rollouts.
+
+---
+
+## 02 — NHS Primary Care Data Management & Clinical Intelligence Platform
 
 **Primary Care Data Administration • Healthcare Analytics • Data Engineering • Power BI**
 
@@ -120,7 +164,7 @@ End-to-end, independently developed, entirely synthetic GP practice data platfor
 
 ---
 
-## 02 — RailNexus — B2B Product Growth, Experimentation & Network Intelligence
+## 03 — RailNexus — B2B Product Growth, Experimentation & Network Intelligence
 
 **B2B Product Analytics • Experimentation • Data Science • Responsible AI**
 
@@ -143,7 +187,7 @@ End-to-end synthetic B2B rail product-intelligence platform combining partner gr
 
 ---
 
-## 03 — RailPartner 360 — B2B Rail Retail & Customer Intelligence
+## 04 — RailPartner 360 — B2B Rail Retail & Customer Intelligence
 
 **Analytics Engineering • B2B Rail • Power BI**
 
@@ -166,7 +210,7 @@ End-to-end rail retail analytics platform combining PostgreSQL, dbt, Python and 
 
 ---
 
-## 04 — RailFlow ML Data Platform
+## 05 — RailFlow ML Data Platform
 
 **Data Engineering • MLOps • Cloud Engineering**
 
@@ -189,7 +233,7 @@ End-to-end UK rail data and machine-learning platform spanning medallion data en
 
 ---
 
-## 05 — RailSearch — Customer Journey & Conversion Intelligence
+## 06 — RailSearch — Customer Journey & Conversion Intelligence
 
 **Product Analytics • Data Science • Machine Learning • MLOps**
 
@@ -212,7 +256,7 @@ Production-style digital rail product-intelligence platform covering search-to-b
 
 ---
 
-## 06 — Credit Risk Intelligence & Explainable Default Prediction
+## 07 — Credit Risk Intelligence & Explainable Default Prediction
 
 **Machine Learning • Explainable AI • MLOps**
 
@@ -235,7 +279,7 @@ Production-style credit-risk workflow covering model benchmarking, Optuna tuning
 
 ---
 
-## 07 — Customer 360 & Revenue Growth Analytics
+## 08 — Customer 360 & Revenue Growth Analytics
 
 **Commercial Analytics • Power BI • Forecasting**
 
@@ -258,7 +302,7 @@ End-to-end commercial analytics combining SQL, Python, Power BI, customer segmen
 
 ---
 
-## 08 — NHS Hospital Performance & Patient Flow
+## 09 — NHS Hospital Performance & Patient Flow
 
 **Healthcare Analytics • SQL • Power BI**
 
@@ -278,7 +322,7 @@ Provider benchmarking, four-hour performance, 12-hour waits, regional variation 
 
 ---
 
-## 09 — Olist E-Commerce Analytics
+## 10 — Olist E-Commerce Analytics
 
 **E-Commerce • RFM • Logistics**
 
@@ -298,7 +342,7 @@ Commercial, customer, logistics and retention analytics with PostgreSQL, SQL, Po
 
 ---
 
-## 10 — Cyclistic Rider Behaviour Analysis
+## 11 — Cyclistic Rider Behaviour Analysis
 
 **Mobility Analytics • Behaviour • Power BI**
 
@@ -318,7 +362,7 @@ Large-scale bike-share analysis comparing member and casual rider patterns acros
 
 ---
 
-## 11 — Bellabeat Wellness Analysis
+## 12 — Bellabeat Wellness Analysis
 
 **Wellness Analytics • Behaviour • Power BI**
 
