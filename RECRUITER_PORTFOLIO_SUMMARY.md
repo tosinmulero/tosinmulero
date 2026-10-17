@@ -18,6 +18,16 @@ MSc Data Science professional with hands-on portfolio work across customer analy
 
 ## Flagship Portfolio Evidence
 
+### Featured: Fintech Product Science Lab — Experimentation, Causal Inference & Retention ML
+
+- [Live case studies and Decision Lab](https://tosinmulero.github.io/data-analytics-portfolio/product-science-lab/)
+- [Published reproducible Python, SQL, tests and audit](https://github.com/tosinmulero/data-analytics-portfolio/tree/main/fintech-product-science-lab/source)
+- Synthetic randomised first-payment A/B experiment: **+3.79 percentage points** activation difference
+- Synthetic observational engagement difference-in-differences: **+5.37 percentage points** conditional estimate
+- Synthetic thirty-day churn model: **0.799 future-holdout ROC AUC**
+- Methodology: intent-to-treat, CUPED, guardrails, fixed effects, clustered errors, time-aware holdouts, calibration and responsible intervention decisions
+- **Disclosure:** wholly synthetic and independently developed. Not Monzo data, real bank impact, or evidence of managerial employment.
+
 ### Customer 360 & Revenue Growth Analytics
 - 270,154 customers analysed
 - 362,165 GA4 sample e-commerce revenue
